@@ -1,0 +1,733 @@
+player,position,number,nat.,url,marketValue
+Unai Simón,Goalkeeper,25,Spain,https://www.transfermarkt.com/unai-simon/profil/spieler/262396,6.0
+Iago Herrerín,Goalkeeper,13,Spain,https://www.transfermarkt.com/iago-herrerin/profil/spieler/71570,4.0
+Álex Remiro,Goalkeeper,1,Spain,https://www.transfermarkt.com/alex-remiro/profil/spieler/212862,1.5
+Hodei Oleaga,Goalkeeper,26,Spain,https://www.transfermarkt.com/hodei-oleaga/profil/spieler/338286,0.2
+Iñigo Martínez,Centre-Back,4,Spain,https://www.transfermarkt.com/inigo-martinez/profil/spieler/158863,32.0
+Yeray Álvarez,Centre-Back,5,Spain,https://www.transfermarkt.com/yeray-alvarez/profil/spieler/255488,25.0
+Unai Núñez,Centre-Back,3,Spain,https://www.transfermarkt.com/unai-nunez/profil/spieler/338285,15.0
+Xabi Etxeita,Centre-Back,unknown,Spain,https://www.transfermarkt.com/xabi-etxeita/profil/spieler/71559,2.0
+Dani Vivian,Centre-Back,29,Spain,https://www.transfermarkt.com/dani-vivian/profil/spieler/524000,0.25
+Yuri Berchiche,Left-Back,12,"['Spain', 'Algeria']",https://www.transfermarkt.com/yuri-berchiche/profil/spieler/61812,20.0
+Mikel Balenziaga,Left-Back,24,Spain,https://www.transfermarkt.com/mikel-balenziaga/profil/spieler/85258,2.0
+Cristian Ganea,Left-Back,2,"['Romania', 'Spain']",https://www.transfermarkt.com/cristian-ganea/profil/spieler/262117,1.0
+Óscar de Marcos,Right-Back,18,Spain,https://www.transfermarkt.com/oscar-de-marcos/profil/spieler/96718,6.0
+Ander Capa,Right-Back,21,Spain,https://www.transfermarkt.com/ander-capa/profil/spieler/197545,3.0
+Iñigo Lekue,Right-Back,15,Spain,https://www.transfermarkt.com/inigo-lekue/profil/spieler/255501,2.0
+Mikel San José,Defensive Midfield,6,Spain,https://www.transfermarkt.com/mikel-san-jose/profil/spieler/52469,7.5
+Peru Nolaskoain,Defensive Midfield,31,Spain,https://www.transfermarkt.com/peru-nolaskoain/profil/spieler/447052,5.0
+Mikel Vesga,Defensive Midfield,unknown,Spain,https://www.transfermarkt.com/mikel-vesga/profil/spieler/300168,4.0
+Ander Iturraspe,Defensive Midfield,8,Spain,https://www.transfermarkt.com/ander-iturraspe/profil/spieler/71571,2.5
+Beñat Etxebarria,Central Midfield,7,Spain,https://www.transfermarkt.com/benat-etxebarria/profil/spieler/40888,4.0
+Dani García,Central Midfield,16,Spain,https://www.transfermarkt.com/dani-garcia/profil/spieler/178425,4.0
+Unai López,Central Midfield,23,Spain,https://www.transfermarkt.com/unai-lopez/profil/spieler/192009,1.5
+Mikel Rico,Central Midfield,17,Spain,https://www.transfermarkt.com/mikel-rico/profil/spieler/51474,0.8
+Iker Muniain,Left Winger,10,Spain,https://www.transfermarkt.com/iker-muniain/profil/spieler/54235,15.0
+Iñigo Córdoba,Left Winger,11,Spain,https://www.transfermarkt.com/inigo-cordoba/profil/spieler/251848,4.0
+Iñigo Vicente,Left Winger,32,Spain,https://www.transfermarkt.com/inigo-vicente/profil/spieler/335216,1.0
+Markel Susaeta,Right Winger,14,Spain,https://www.transfermarkt.com/markel-susaeta/profil/spieler/54245,6.0
+Ibai Gómez,Right Winger,19,Spain,https://www.transfermarkt.com/ibai-gomez/profil/spieler/127837,4.0
+Iñaki Williams,Centre-Forward,9,"['Spain', 'Ghana']",https://www.transfermarkt.com/inaki-williams/profil/spieler/255508,50.0
+Raúl García,Centre-Forward,22,Spain,https://www.transfermarkt.com/raul-garcia/profil/spieler/34601,7.5
+Kenan Kodro,Centre-Forward,2,"['Bosnia-Herzegovina', 'Spain']",https://www.transfermarkt.com/kenan-kodro/profil/spieler/197126,1.0
+Sabin Merino,Centre-Forward,19,Spain,https://www.transfermarkt.com/sabin-merino/profil/spieler/192736,1.0
+Aritz Aduriz,Centre-Forward,20,Spain,https://www.transfermarkt.com/aritz-aduriz/profil/spieler/29124,1.0
+Gorka Guruzeta,Centre-Forward,30,Spain,https://www.transfermarkt.com/gorka-guruzeta/profil/spieler/340205,0.5
+Jan Oblak,Goalkeeper,13,Slovenia,https://www.transfermarkt.com/jan-oblak/profil/spieler/121483,100.0
+Antonio Adán,Goalkeeper,1,Spain,https://www.transfermarkt.com/antonio-adan/profil/spieler/44062,1.5
+André Moreira,Goalkeeper,unknown,Portugal,https://www.transfermarkt.com/andre-moreira/profil/spieler/326363,0.8
+Axel Werner,Goalkeeper,unknown,"['Argentina', 'Italy']",https://www.transfermarkt.com/axel-werner/profil/spieler/236734,0.6
+Álex dos Santos,Goalkeeper,37,"['Brazil', 'Spain']",https://www.transfermarkt.com/alex-dos-santos/profil/spieler/396341,0.2
+Lucas Hernández,Centre-Back,21,"['France', 'Spain']",https://www.transfermarkt.com/lucas-hernandez/profil/spieler/281963,70.0
+José María Giménez,Centre-Back,24,"['Uruguay', 'Spain']",https://www.transfermarkt.com/jose-maria-gimenez/profil/spieler/250845,70.0
+Stefan Savic,Centre-Back,15,"['Montenegro', 'Serbia']",https://www.transfermarkt.com/stefan-savic/profil/spieler/107010,35.0
+Diego Godín,Centre-Back,2,"['Uruguay', 'Spain']",https://www.transfermarkt.com/diego-godin/profil/spieler/54928,20.0
+Francisco Montero,Centre-Back,35,Spain,https://www.transfermarkt.com/francisco-montero/profil/spieler/396333,10.0
+Nehuén Pérez,Centre-Back,18,Argentina,https://www.transfermarkt.com/nehuen-perez/profil/spieler/491693,2.5
+Tachi,Centre-Back,36,Spain,https://www.transfermarkt.com/tachi/profil/spieler/354697,0.3
+Filipe Luís,Left-Back,3,"['Brazil', 'Poland']",https://www.transfermarkt.com/filipe-luis/profil/spieler/21725,3.0
+Manu Sánchez,Left-Back,54,Spain,https://www.transfermarkt.com/manu-sanchez/profil/spieler/618809,0.1
+Sime Vrsaljko,Right-Back,unknown,Croatia,https://www.transfermarkt.com/sime-vrsaljko/profil/spieler/76061,20.0
+Santiago Arias,Right-Back,4,Colombia,https://www.transfermarkt.com/santiago-arias/profil/spieler/120443,18.0
+Juanfran Torres,Right-Back,20,Spain,https://www.transfermarkt.com/juanfran-torres/profil/spieler/16635,3.0
+Andrés Solano,Right-Back,33,"['Colombia', 'Italy']",https://www.transfermarkt.com/andres-solano/profil/spieler/461618,0.2
+Carlos Isaac,Right-Back,38,Spain,https://www.transfermarkt.com/carlos-isaac/profil/spieler/396324,0.2
+Rodri,Defensive Midfield,14,Spain,https://www.transfermarkt.com/rodri/profil/spieler/357565,80.0
+Thomas Partey,Defensive Midfield,5,Ghana,https://www.transfermarkt.com/thomas-partey/profil/spieler/230784,50.0
+Gustavo Assunção,Defensive Midfield,57,"['Brazil', 'Portugal']",https://www.transfermarkt.com/gustavo-assuncao/profil/spieler/461629,0.1
+Saúl Ñíguez,Central Midfield,8,Spain,https://www.transfermarkt.com/saul-niguez/profil/spieler/148928,90.0
+Koke,Central Midfield,6,Spain,https://www.transfermarkt.com/koke/profil/spieler/74229,70.0
+Roberto Olabe,Central Midfield,30,Spain,https://www.transfermarkt.com/roberto-olabe/profil/spieler/242299,0.8
+Toni Moya,Central Midfield,43,Spain,https://www.transfermarkt.com/toni-moya/profil/spieler/295065,0.3
+Cristian Rodríguez,Central Midfield,28,Spain,https://www.transfermarkt.com/cristian-rodriguez/profil/spieler/442802,0.25
+Mikel Carro,Central Midfield,30,Spain,https://www.transfermarkt.com/mikel-carro/profil/spieler/396327,0.15
+Thomas Lemar,Attacking Midfield,11,"['France', 'Guadeloupe']",https://www.transfermarkt.com/thomas-lemar/profil/spieler/205562,40.0
+Bernard Mensah,Attacking Midfield,unknown,Ghana,https://www.transfermarkt.com/bernard-mensah/profil/spieler/324321,2.3
+Vitolo,Left Winger,23,Spain,https://www.transfermarkt.com/vitolo/profil/spieler/67082,18.0
+Luciano Vietto,Left Winger,unknown,"['Argentina', 'Italy']",https://www.transfermarkt.com/luciano-vietto/profil/spieler/214316,7.0
+Joaquín Muñoz,Left Winger,47,Spain,https://www.transfermarkt.com/joaquin-munoz/profil/spieler/396334,0.3
+Gelson Martins,Right Winger,18,"['Portugal', 'Cape Verde']",https://www.transfermarkt.com/gelson-martins/profil/spieler/257448,28.0
+Víctor Mollejo,Right Winger,40,Spain,https://www.transfermarkt.com/victor-mollejo/profil/spieler/505673,2.5
+Antoine Griezmann,Second Striker,7,France,https://www.transfermarkt.com/antoine-griezmann/profil/spieler/125781,130.0
+Ángel Correa,Second Striker,10,"['Argentina', 'Spain']",https://www.transfermarkt.com/angel-correa/profil/spieler/266807,35.0
+Álvaro Morata,Centre-Forward,22,Spain,https://www.transfermarkt.com/alvaro-morata/profil/spieler/128223,50.0
+Diego Costa,Centre-Forward,19,"['Spain', 'Brazil']",https://www.transfermarkt.com/diego-costa/profil/spieler/44779,25.0
+Nikola Kalinic,Centre-Forward,9,Croatia,https://www.transfermarkt.com/nikola-kalinic/profil/spieler/36371,10.0
+Borja Garcés,Centre-Forward,32,Spain,https://www.transfermarkt.com/borja-garces/profil/spieler/566036,3.0
+Sergio Camello,Centre-Forward,55,Spain,https://www.transfermarkt.com/sergio-camello/profil/spieler/505674,2.5
+Andriy Lunin,Goalkeeper,unknown,Ukraine,https://www.transfermarkt.com/andriy-lunin/profil/spieler/404839,7.5
+Iván Cuéllar,Goalkeeper,1,Spain,https://www.transfermarkt.com/ivan-cuellar/profil/spieler/27493,0.8
+Jon Ander Serantes,Goalkeeper,unknown,Spain,https://www.transfermarkt.com/jon-ander-serantes/profil/spieler/71835,0.5
+Andrés Prieto,Goalkeeper,13,Spain,https://www.transfermarkt.com/andres-prieto/profil/spieler/238032,0.2
+David Tejero,Goalkeeper,unknown,Spain,https://www.transfermarkt.com/david-tejero/profil/spieler/282435,0.15
+Dimitrios Siovas,Centre-Back,22,Greece,https://www.transfermarkt.com/dimitrios-siovas/profil/spieler/52403,6.0
+Kenneth Omeruo,Centre-Back,unknown,Nigeria,https://www.transfermarkt.com/kenneth-omeruo/profil/spieler/131708,5.0
+Unai Bustinza,Centre-Back,3,Spain,https://www.transfermarkt.com/unai-bustinza/profil/spieler/156808,4.0
+Diego Reyes,Centre-Back,unknown,Mexico,https://www.transfermarkt.com/diego-reyes/profil/spieler/131090,2.0
+Rodri Tarín,Centre-Back,15,Spain,https://www.transfermarkt.com/rodri-tarin/profil/spieler/203617,2.0
+Ezequiel Muñoz,Centre-Back,19,"['Argentina', 'Italy']",https://www.transfermarkt.com/ezequiel-munoz/profil/spieler/75127,1.0
+Josua Mejías,Centre-Back,unknown,"['Venezuela', 'Spain']",https://www.transfermarkt.com/josua-mejias/profil/spieler/427683,0.2
+Jonathan Silva,Left-Back,unknown,"['Argentina', 'Italy']",https://www.transfermarkt.com/jonathan-silva/profil/spieler/189453,3.0
+Vasyl Kravets,Left-Back,14,Ukraine,https://www.transfermarkt.com/vasyl-kravets/profil/spieler/245048,3.0
+Raúl Carnero,Left-Back,unknown,Spain,https://www.transfermarkt.com/raul-carnero/profil/spieler/139434,1.0
+Allan Nyom,Right-Back,unknown,"['Cameroon', 'France']",https://www.transfermarkt.com/allan-nyom/profil/spieler/111508,3.0
+Juanfran,Right-Back,unknown,Spain,https://www.transfermarkt.com/juanfran/profil/spieler/64411,2.5
+Rubén Pérez,Defensive Midfield,21,Spain,https://www.transfermarkt.com/ruben-perez/profil/spieler/113045,7.5
+Mikel Vesga,Defensive Midfield,unknown,Spain,https://www.transfermarkt.com/mikel-vesga/profil/spieler/300168,4.0
+Gerard Gumbau,Defensive Midfield,6,Spain,https://www.transfermarkt.com/gerard-gumbau/profil/spieler/268670,2.5
+Recio,Central Midfield,8,Spain,https://www.transfermarkt.com/recio/profil/spieler/150948,3.0
+Facundo García,Central Midfield,unknown,Argentina,https://www.transfermarkt.com/facundo-garcia/profil/spieler/571079,0.6
+Óscar Rodríguez,Attacking Midfield,27,Spain,https://www.transfermarkt.com/oscar-rodriguez/profil/spieler/284884,10.0
+Fede Vico,Attacking Midfield,unknown,Spain,https://www.transfermarkt.com/fede-vico/profil/spieler/162079,1.5
+Javi Eraso,Attacking Midfield,17,Spain,https://www.transfermarkt.com/javi-eraso/profil/spieler/156814,1.5
+José Manuel Arnáiz,Left Winger,16,Spain,https://www.transfermarkt.com/jose-manuel-arnaiz/profil/spieler/364603,2.5
+Alexander Szymanowski,Left Winger,11,"['Argentina', 'Spain']",https://www.transfermarkt.com/alexander-szymanowski/profil/spieler/217728,1.5
+Dani Ojeda,Left Winger,unknown,Spain,https://www.transfermarkt.com/dani-ojeda/profil/spieler/111621,0.4
+Nabil El Zhar,Right Winger,unknown,"['Morocco', 'France']",https://www.transfermarkt.com/nabil-el-zhar/profil/spieler/37917,2.0
+Javier Avilés,Right Winger,unknown,Spain,https://www.transfermarkt.com/javier-aviles/profil/spieler/456938,0.1
+Youssef En-Nesyri,Centre-Forward,26,Morocco,https://www.transfermarkt.com/youssef-en-nesyri/profil/spieler/433049,12.0
+Martin Braithwaite,Centre-Forward,unknown,"['Denmark', 'Guyana']",https://www.transfermarkt.com/martin-braithwaite/profil/spieler/95732,8.0
+Guido Carrillo,Centre-Forward,unknown,"['Argentina', 'Italy']",https://www.transfermarkt.com/guido-carrillo/profil/spieler/184672,7.5
+Michael Santos,Centre-Forward,unknown,Uruguay,https://www.transfermarkt.com/michael-santos/profil/spieler/178107,2.0
+Diego Rolán,Centre-Forward,unknown,Uruguay,https://www.transfermarkt.com/diego-rolan/profil/spieler/193938,2.0
+Sabin Merino,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/sabin-merino/profil/spieler/192736,1.0
+Mamadou Koné,Centre-Forward,unknown,Cote d'Ivoire,https://www.transfermarkt.com/mamadou-kone/profil/spieler/171165,0.8
+Owusu,Centre-Forward,unknown,Ghana,https://www.transfermarkt.com/owusu/profil/spieler/457782,0.3
+Fernando Pacheco,Goalkeeper,1,Spain,https://www.transfermarkt.com/fernando-pacheco/profil/spieler/172015,15.0
+Antonio Sivera,Goalkeeper,13,Spain,https://www.transfermarkt.com/antonio-sivera/profil/spieler/298197,1.5
+Álex Domínguez,Goalkeeper,unknown,Spain,https://www.transfermarkt.com/alex-dominguez/profil/spieler/524937,0.1
+Guillermo Maripán,Centre-Back,6,Chile,https://www.transfermarkt.com/guillermo-maripan/profil/spieler/249730,15.0
+Víctor Laguardia,Centre-Back,5,Spain,https://www.transfermarkt.com/victor-laguardia/profil/spieler/67080,10.0
+Rodrigo Ely,Centre-Back,4,"['Brazil', 'Italy']",https://www.transfermarkt.com/rodrigo-ely/profil/spieler/176140,2.0
+Rafa Páez,Centre-Back,unknown,Spain,https://www.transfermarkt.com/rafa-paez/profil/spieler/268258,0.4
+Adrián Diéguez,Centre-Back,unknown,Spain,https://www.transfermarkt.com/adrian-dieguez/profil/spieler/355335,0.3
+Rubén Duarte,Left-Back,3,Spain,https://www.transfermarkt.com/ruben-duarte/profil/spieler/177046,5.0
+Adrián Marín,Left-Back,17,Spain,https://www.transfermarkt.com/adrian-marin/profil/spieler/295414,0.8
+Cristian Glauder,Left-Back,unknown,Spain,https://www.transfermarkt.com/cristian-glauder/profil/spieler/380365,0.3
+Martín Aguirregabiria,Right-Back,21,Spain,https://www.transfermarkt.com/martin-aguirregabiria/profil/spieler/483573,7.5
+Ximo Navarro,Right-Back,15,Spain,https://www.transfermarkt.com/ximo-navarro/profil/spieler/184767,3.0
+Carlos Vigaray,Right-Back,2,Spain,https://www.transfermarkt.com/carlos-vigaray/profil/spieler/263627,0.6
+Rafa Navarro,Right-Back,unknown,Spain,https://www.transfermarkt.com/rafa-navarro/profil/spieler/351746,0.5
+Manu García,Defensive Midfield,19,Spain,https://www.transfermarkt.com/manu-garcia/profil/spieler/76273,2.0
+Antonio Perera,Defensive Midfield,unknown,Spain,https://www.transfermarkt.com/antonio-perera/profil/spieler/483742,0.1
+Tomás Pina,Central Midfield,8,Spain,https://www.transfermarkt.com/tomas-pina/profil/spieler/139895,2.5
+Mubarak Wakaso,Central Midfield,22,Ghana,https://www.transfermarkt.com/mubarak-wakaso/profil/spieler/45639,2.5
+Darko Brasanac,Central Midfield,unknown,Serbia,https://www.transfermarkt.com/darko-brasanac/profil/spieler/95641,2.0
+Dani Torres,Central Midfield,unknown,Colombia,https://www.transfermarkt.com/dani-torres/profil/spieler/93142,0.9
+Javi Muñoz,Central Midfield,unknown,Spain,https://www.transfermarkt.com/javi-munoz/profil/spieler/282421,0.5
+Jony,Left Winger,unknown,Spain,https://www.transfermarkt.com/jony/profil/spieler/228761,10.0
+Takashi Inui,Left Winger,unknown,Japan,https://www.transfermarkt.com/takashi-inui/profil/spieler/98249,4.0
+Burgui,Left Winger,14,Spain,https://www.transfermarkt.com/burgui/profil/spieler/246277,1.5
+Álex Blanco,Left Winger,unknown,Spain,https://www.transfermarkt.com/alex-blanco/profil/spieler/328914,0.5
+Anderson Cruz,Left Winger,unknown,"['Angola', 'Portugal']",https://www.transfermarkt.com/anderson-cruz/profil/spieler/533060,0.2
+Ibai Gómez,Right Winger,unknown,Spain,https://www.transfermarkt.com/ibai-gomez/profil/spieler/127837,4.0
+Patrick Twumasi,Right Winger,24,Ghana,https://www.transfermarkt.com/patrick-twumasi/profil/spieler/188651,1.2
+Nando García,Right Winger,unknown,Spain,https://www.transfermarkt.com/nando-garcia/profil/spieler/337977,0.4
+Jonathan Calleri,Centre-Forward,unknown,"['Argentina', 'Italy']",https://www.transfermarkt.com/jonathan-calleri/profil/spieler/284727,9.0
+Rubén Sobrino,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/ruben-sobrino/profil/spieler/85383,3.0
+John Guidetti,Centre-Forward,10,Sweden,https://www.transfermarkt.com/john-guidetti/profil/spieler/98596,3.0
+Borja Bastón,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/borja-baston/profil/spieler/85324,2.0
+Diego Rolán,Centre-Forward,unknown,Uruguay,https://www.transfermarkt.com/diego-rolan/profil/spieler/193938,2.0
+Ermedin Demirovic,Centre-Forward,unknown,Bosnia-Herzegovina,https://www.transfermarkt.com/ermedin-demirovic/profil/spieler/335457,1.0
+Marc-André ter Stegen,Goalkeeper,1,Germany,https://www.transfermarkt.com/marc-andre-ter-stegen/profil/spieler/74857,90.0
+Jasper Cillessen,Goalkeeper,13,Netherlands,https://www.transfermarkt.com/jasper-cillessen/profil/spieler/146227,18.0
+Adrián Ortolá,Goalkeeper,unknown,Spain,https://www.transfermarkt.com/adrian-ortola/profil/spieler/142033,1.0
+Iñaki Peña,Goalkeeper,30,Spain,https://www.transfermarkt.com/inaki-pena/profil/spieler/283170,1.0
+Jokin Ezkieta,Goalkeeper,31,Spain,https://www.transfermarkt.com/jokin-ezkieta/profil/spieler/379548,0.2
+Clément Lenglet,Centre-Back,15,France,https://www.transfermarkt.com/clement-lenglet/profil/spieler/182904,60.0
+Samuel Umtiti,Centre-Back,23,"['France', 'Cameroon']",https://www.transfermarkt.com/samuel-umtiti/profil/spieler/126540,45.0
+Gerard Piqué,Centre-Back,3,Spain,https://www.transfermarkt.com/gerard-pique/profil/spieler/18944,35.0
+Jeison Murillo,Centre-Back,17,"['Colombia', 'Spain']",https://www.transfermarkt.com/jeison-murillo/profil/spieler/131102,10.0
+Jean-Clair Todibo,Centre-Back,6,"['France', 'French Guiana']",https://www.transfermarkt.com/jean-clair-todibo/profil/spieler/605184,8.0
+Thomas Vermaelen,Centre-Back,24,Belgium,https://www.transfermarkt.com/thomas-vermaelen/profil/spieler/15904,2.5
+Chumi,Centre-Back,36,Spain,https://www.transfermarkt.com/chumi/profil/spieler/333361,2.5
+Jorge Cuenca,Centre-Back,33,Spain,https://www.transfermarkt.com/jorge-cuenca/profil/spieler/494880,1.0
+Jordi Alba,Left-Back,18,Spain,https://www.transfermarkt.com/jordi-alba/profil/spieler/69751,50.0
+Marc Cucurella,Left-Back,unknown,Spain,https://www.transfermarkt.com/marc-cucurella/profil/spieler/284857,10.0
+Juan Miranda,Left-Back,27,Spain,https://www.transfermarkt.com/juan-miranda/profil/spieler/341227,5.0
+Nélson Semedo,Right-Back,2,"['Portugal', 'Cape Verde']",https://www.transfermarkt.com/nelson-semedo/profil/spieler/231572,40.0
+Moussa Wagué,Right-Back,40,Senegal,https://www.transfermarkt.com/moussa-wague/profil/spieler/364240,5.0
+Douglas,Right-Back,unknown,Brazil,https://www.transfermarkt.com/douglas/profil/spieler/58426,2.0
+Guillem Jaime,Right-Back,38,Spain,https://www.transfermarkt.com/guillem-jaime/profil/spieler/331508,0.2
+Sergio Busquets,Defensive Midfield,5,Spain,https://www.transfermarkt.com/sergio-busquets/profil/spieler/65230,50.0
+Oriol Busquets,Defensive Midfield,35,Spain,https://www.transfermarkt.com/oriol-busquets/profil/spieler/282721,2.5
+Sergi Samper,Defensive Midfield,16,Spain,https://www.transfermarkt.com/sergi-samper/profil/spieler/181112,1.5
+Arthur,Central Midfield,8,Brazil,https://www.transfermarkt.com/arthur/profil/spieler/362842,70.0
+Sergi Roberto,Central Midfield,20,Spain,https://www.transfermarkt.com/sergi-roberto/profil/spieler/85370,50.0
+Ivan Rakitic,Central Midfield,4,"['Croatia', 'Switzerland']",https://www.transfermarkt.com/ivan-rakitic/profil/spieler/32467,40.0
+Carles Aleñá,Central Midfield,21,Spain,https://www.transfermarkt.com/carles-alena/profil/spieler/284854,30.0
+André Gomes,Central Midfield,unknown,Portugal,https://www.transfermarkt.com/andre-gomes/profil/spieler/221025,28.0
+Rafinha,Central Midfield,12,"['Brazil', 'Spain']",https://www.transfermarkt.com/rafinha/profil/spieler/129473,15.0
+Arturo Vidal,Central Midfield,22,Chile,https://www.transfermarkt.com/arturo-vidal/profil/spieler/37666,15.0
+Riqui Puig,Central Midfield,28,Spain,https://www.transfermarkt.com/riqui-puig/profil/spieler/331511,10.0
+Denis Suárez,Attacking Midfield,6,Spain,https://www.transfermarkt.com/denis-suarez/profil/spieler/165007,12.0
+Kevin-Prince Boateng,Attacking Midfield,19,"['Ghana', 'Germany']",https://www.transfermarkt.com/kevin-prince-boateng/profil/spieler/16922,7.0
+Philippe Coutinho,Left Winger,7,"['Brazil', 'Portugal']",https://www.transfermarkt.com/philippe-coutinho/profil/spieler/80444,90.0
+Lionel Messi,Right Winger,10,"['Argentina', 'Spain']",https://www.transfermarkt.com/lionel-messi/profil/spieler/28003,150.0
+Ousmane Dembélé,Right Winger,11,"['France', 'Mauritania']",https://www.transfermarkt.com/ousmane-dembele/profil/spieler/288230,100.0
+Malcom,Right Winger,14,Brazil,https://www.transfermarkt.com/malcom/profil/spieler/323704,40.0
+Carles Pérez,Right Winger,43,Spain,https://www.transfermarkt.com/carles-perez/profil/spieler/282810,1.5
+Álex Collado,Right Winger,34,Spain,https://www.transfermarkt.com/alex-collado/profil/spieler/282722,1.0
+Luis Suárez,Centre-Forward,9,Uruguay,https://www.transfermarkt.com/luis-suarez/profil/spieler/44352,50.0
+Paco Alcácer,Centre-Forward,17,Spain,https://www.transfermarkt.com/paco-alcacer/profil/spieler/126716,37.0
+Munir El Haddadi,Centre-Forward,19,"['Morocco', 'Spain']",https://www.transfermarkt.com/munir-el-haddadi/profil/spieler/223725,10.0
+Abel Ruiz,Centre-Forward,29,Spain,https://www.transfermarkt.com/abel-ruiz/profil/spieler/340376,3.0
+Marc Cardona,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/marc-cardona/profil/spieler/443222,1.5
+David Soria,Goalkeeper,13,Spain,https://www.transfermarkt.com/david-soria/profil/spieler/226012,15.0
+Leandro Chichizola,Goalkeeper,1,"['Argentina', 'Italy']",https://www.transfermarkt.com/leandro-chichizola/profil/spieler/95736,1.0
+Filip Manojlovic,Goalkeeper,unknown,Serbia,https://www.transfermarkt.com/filip-manojlovic/profil/spieler/333323,0.4
+Rubén Yáñez,Goalkeeper,25,Spain,https://www.transfermarkt.com/ruben-yanez/profil/spieler/246335,0.3
+Djené,Centre-Back,2,Togo,https://www.transfermarkt.com/djene/profil/spieler/221150,25.0
+Leandro Cabrera,Centre-Back,6,"['Uruguay', 'Spain']",https://www.transfermarkt.com/leandro-cabrera/profil/spieler/102423,5.0
+Bruno González,Centre-Back,4,Spain,https://www.transfermarkt.com/bruno-gonzalez/profil/spieler/188838,2.0
+Ignasi Miquel,Centre-Back,21,Spain,https://www.transfermarkt.com/ignasi-miquel/profil/spieler/70245,2.0
+Miguel Rubio,Centre-Back,unknown,Spain,https://www.transfermarkt.com/miguel-rubio/profil/spieler/583510,0.1
+Mathí­as Olivera,Left-Back,17,"['Uruguay', 'Spain']",https://www.transfermarkt.com/mathi-shy-as-olivera/profil/spieler/376514,3.0
+Vitorino Antunes,Left-Back,3,Portugal,https://www.transfermarkt.com/vitorino-antunes/profil/spieler/44699,2.5
+Dimitri Foulquier,Right-Back,unknown,"['Guadeloupe', 'France']",https://www.transfermarkt.com/dimitri-foulquier/profil/spieler/170472,3.5
+Damián Suárez,Right-Back,22,"['Uruguay', 'Spain']",https://www.transfermarkt.com/damian-suarez/profil/spieler/76746,3.5
+Nemanja Maksimovic,Defensive Midfield,20,Serbia,https://www.transfermarkt.com/nemanja-maksimovic/profil/spieler/273152,15.0
+Markel Bergara,Defensive Midfield,5,Spain,https://www.transfermarkt.com/markel-bergara/profil/spieler/51426,0.8
+Mathieu Flamini,Defensive Midfield,16,France,https://www.transfermarkt.com/mathieu-flamini/profil/spieler/17396,0.6
+Mauro Arambarri,Central Midfield,18,Uruguay,https://www.transfermarkt.com/mauro-arambarri/profil/spieler/290249,15.0
+Gaku Shibasaki,Central Midfield,10,Japan,https://www.transfermarkt.com/gaku-shibasaki/profil/spieler/129693,2.0
+Sebastián Cristóforo,Central Midfield,unknown,"['Uruguay', 'Italy']",https://www.transfermarkt.com/sebastian-cristoforo/profil/spieler/188157,1.8
+Amath Ndiaye,Left Winger,unknown,Senegal,https://www.transfermarkt.com/amath-ndiaye/profil/spieler/339820,4.0
+Samu Saiz,Left Winger,unknown,Spain,https://www.transfermarkt.com/samu-saiz/profil/spieler/131506,2.0
+José Carlos Lazo,Left Winger,unknown,Spain,https://www.transfermarkt.com/jose-carlos-lazo/profil/spieler/282410,1.0
+Merveil Ndockyt,Left Winger,unknown,Congo,https://www.transfermarkt.com/merveil-ndockyt/profil/spieler/398886,0.8
+Francisco Portillo,Right Winger,8,Spain,https://www.transfermarkt.com/francisco-portillo/profil/spieler/138803,4.0
+Iván Alejo,Right Winger,unknown,Spain,https://www.transfermarkt.com/ivan-alejo/profil/spieler/281755,1.2
+Rober Ibáñez,Right Winger,unknown,Spain,https://www.transfermarkt.com/rober-ibanez/profil/spieler/242532,1.0
+Álvaro Jiménez,Right Winger,unknown,Spain,https://www.transfermarkt.com/alvaro-jimenez/profil/spieler/282406,0.6
+Jaime Mata,Centre-Forward,7,Spain,https://www.transfermarkt.com/jaime-mata/profil/spieler/227961,10.0
+Sergi Guardiola,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/sergi-guardiola/profil/spieler/256429,5.0
+Ángel Rodríguez,Centre-Forward,9,Spain,https://www.transfermarkt.com/angel-rodriguez/profil/spieler/51510,3.0
+Jorge Molina,Centre-Forward,19,Spain,https://www.transfermarkt.com/jorge-molina/profil/spieler/57825,2.0
+Hugo Duro,Centre-Forward,27,Spain,https://www.transfermarkt.com/hugo-duro/profil/spieler/573775,2.0
+Chuli,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/chuli/profil/spieler/129515,0.4
+Bono,Goalkeeper,13,"['Morocco', 'Canada']",https://www.transfermarkt.com/bono/profil/spieler/207834,5.0
+José Aurelio Suárez,Goalkeeper,unknown,Spain,https://www.transfermarkt.com/jose-aurelio-suarez/profil/spieler/223720,0.25
+Gorka Iraizoz,Goalkeeper,1,Spain,https://www.transfermarkt.com/gorka-iraizoz/profil/spieler/7874,0.2
+Marc Vito,Goalkeeper,unknown,Spain,https://www.transfermarkt.com/marc-vito/profil/spieler/378947,0.15
+Juanpe,Centre-Back,15,Spain,https://www.transfermarkt.com/juanpe/profil/spieler/115333,7.0
+Bernardo Espinosa,Centre-Back,2,"['Colombia', 'Spain']",https://www.transfermarkt.com/bernardo-espinosa/profil/spieler/64598,6.0
+Jonás Ramalho,Centre-Back,4,"['Angola', 'Spain']",https://www.transfermarkt.com/jonas-ramalho/profil/spieler/69660,3.0
+Marc Muniesa,Centre-Back,20,Spain,https://www.transfermarkt.com/marc-muniesa/profil/spieler/74228,3.0
+Pedro Alcalá,Centre-Back,5,Spain,https://www.transfermarkt.com/pedro-alcala/profil/spieler/51663,0.8
+Johan Mojica,Left-Back,3,"['Colombia', 'Spain']",https://www.transfermarkt.com/johan-mojica/profil/spieler/262939,3.0
+Aday Benítez,Left-Back,11,Spain,https://www.transfermarkt.com/aday-benitez/profil/spieler/132921,1.5
+Raúl Carnero,Left-Back,14,Spain,https://www.transfermarkt.com/raul-carnero/profil/spieler/139434,1.0
+Carles Planas,Left-Back,21,Spain,https://www.transfermarkt.com/carles-planas/profil/spieler/66099,0.8
+Pedro Porro,Right-Back,24,Spain,https://www.transfermarkt.com/pedro-porro/profil/spieler/553875,10.0
+Pere Pons,Defensive Midfield,8,Spain,https://www.transfermarkt.com/pere-pons/profil/spieler/242497,4.0
+Douglas Luiz,Defensive Midfield,unknown,Brazil,https://www.transfermarkt.com/douglas-luiz/profil/spieler/447661,2.5
+David Timor,Defensive Midfield,unknown,Spain,https://www.transfermarkt.com/david-timor/profil/spieler/158795,1.5
+Álex Granell,Central Midfield,6,Spain,https://www.transfermarkt.com/alex-granell/profil/spieler/255284,5.0
+Aleix García,Central Midfield,unknown,Spain,https://www.transfermarkt.com/aleix-garcia/profil/spieler/261504,3.0
+Seung-ho Paik,Central Midfield,unknown,"Korea, South",https://www.transfermarkt.com/seung-ho-paik/profil/spieler/282689,0.3
+Èric Montes,Central Midfield,unknown,Spain,https://www.transfermarkt.com/eric-montes/profil/spieler/293383,0.3
+Borja García,Attacking Midfield,10,Spain,https://www.transfermarkt.com/borja-garcia/profil/spieler/67808,7.0
+Jairo Izquierdo,Left Winger,unknown,Spain,https://www.transfermarkt.com/jairo-izquierdo/profil/spieler/337946,0.8
+Yhoan Andzouana,Left Winger,unknown,"['Congo', 'France']",https://www.transfermarkt.com/yhoan-andzouana/profil/spieler/342218,0.25
+Portu,Right Winger,9,Spain,https://www.transfermarkt.com/portu/profil/spieler/99353,10.0
+Patrick Roberts,Right Winger,unknown,England,https://www.transfermarkt.com/patrick-roberts/profil/spieler/225452,5.0
+Valery Fernández,Right Winger,34,Spain,https://www.transfermarkt.com/valery-fernandez/profil/spieler/331496,5.0
+Sebas Coris,Right Winger,unknown,Spain,https://www.transfermarkt.com/sebas-coris/profil/spieler/243715,0.5
+Cristhian Stuani,Centre-Forward,7,"['Uruguay', 'Italy']",https://www.transfermarkt.com/cristhian-stuani/profil/spieler/59323,7.0
+Choco Lozano,Centre-Forward,19,"['Honduras', 'Spain']",https://www.transfermarkt.com/choco-lozano/profil/spieler/131275,1.5
+Seydou Doumbia,Centre-Forward,22,Cote d'Ivoire,https://www.transfermarkt.com/seydou-doumbia/profil/spieler/75287,1.5
+Kévin Soni,Centre-Forward,unknown,Cameroon,https://www.transfermarkt.com/kevin-soni/profil/spieler/353959,0.3
+Álex Pachón,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/alex-pachon/profil/spieler/533110,0.1
+Oier Olazábal,Goalkeeper,13,Spain,https://www.transfermarkt.com/oier-olazabal/profil/spieler/8176,2.5
+Aitor Fernández,Goalkeeper,25,Spain,https://www.transfermarkt.com/aitor-fernandez/profil/spieler/118997,2.5
+Koke Vegas,Goalkeeper,1,Spain,https://www.transfermarkt.com/koke-vegas/profil/spieler/299715,0.8
+Rúben Vezo,Centre-Back,14,"['Portugal', 'Cape Verde']",https://www.transfermarkt.com/ruben-vezo/profil/spieler/257851,6.0
+Erick Cabaco,Centre-Back,18,"['Uruguay', 'Italy']",https://www.transfermarkt.com/erick-cabaco/profil/spieler/302991,4.0
+Rober Pier,Centre-Back,4,Spain,https://www.transfermarkt.com/rober-pier/profil/spieler/387129,2.5
+Chema,Centre-Back,6,Spain,https://www.transfermarkt.com/chema/profil/spieler/248330,2.5
+Sergio Postigo,Centre-Back,15,Spain,https://www.transfermarkt.com/sergio-postigo/profil/spieler/158791,2.5
+Genís Montolio,Centre-Back,26,Spain,https://www.transfermarkt.com/genis-montolio/profil/spieler/478426,0.2
+Antonio Luna,Left-Back,22,Spain,https://www.transfermarkt.com/antonio-luna/profil/spieler/126516,1.5
+Toño García,Left-Back,3,Spain,https://www.transfermarkt.com/tono-garcia/profil/spieler/125931,1.0
+Coke,Right-Back,12,Spain,https://www.transfermarkt.com/coke/profil/spieler/71905,2.0
+Shaq Moore,Right-Back,30,"['United States', 'Trinidad and Tobago']",https://www.transfermarkt.com/shaq-moore/profil/spieler/336168,0.3
+Pedro López,Right-Back,19,Spain,https://www.transfermarkt.com/pedro-lopez/profil/spieler/25412,0.2
+Nikola Vukcevic,Defensive Midfield,17,Montenegro,https://www.transfermarkt.com/nikola-vukcevic/profil/spieler/151470,2.5
+Cheick Doukouré,Defensive Midfield,5,"[""Cote d'Ivoire"", 'France']",https://www.transfermarkt.com/cheick-doukoure/profil/spieler/129679,1.0
+Pepelu,Defensive Midfield,32,Spain,https://www.transfermarkt.com/pepelu/profil/spieler/328480,0.3
+José Campaña,Central Midfield,24,Spain,https://www.transfermarkt.com/jose-campana/profil/spieler/120095,15.0
+Sanjin Prcic,Central Midfield,8,"['Bosnia-Herzegovina', 'France']",https://www.transfermarkt.com/sanjin-prcic/profil/spieler/125783,4.0
+Fran Manzanara,Central Midfield,27,Spain,https://www.transfermarkt.com/fran-manzanara/profil/spieler/385084,0.3
+Enis Bardhi,Attacking Midfield,10,North Macedonia,https://www.transfermarkt.com/enis-bardhi/profil/spieler/245014,15.0
+Arturo Molina,Attacking Midfield,31,Spain,https://www.transfermarkt.com/arturo-molina/profil/spieler/337781,0.25
+Moses Simon,Left Winger,7,Nigeria,https://www.transfermarkt.com/moses-simon/profil/spieler/274862,3.0
+Jason,Right Winger,23,Spain,https://www.transfermarkt.com/jason/profil/spieler/263860,5.0
+Rubén Rochina,Right Winger,16,Spain,https://www.transfermarkt.com/ruben-rochina/profil/spieler/67548,4.0
+Samu García,Right Winger,14,Spain,https://www.transfermarkt.com/samu-garcia/profil/spieler/208890,0.1
+Roger Martí,Centre-Forward,9,Spain,https://www.transfermarkt.com/roger-marti/profil/spieler/212391,10.0
+José Luis Morales,Centre-Forward,11,Spain,https://www.transfermarkt.com/jose-luis-morales/profil/spieler/252677,10.0
+Borja Mayoral,Centre-Forward,2,Spain,https://www.transfermarkt.com/borja-mayoral/profil/spieler/298976,4.0
+Raphael Dwamena,Centre-Forward,20,Ghana,https://www.transfermarkt.com/raphael-dwamena/profil/spieler/254290,2.5
+Emmanuel Boateng,Centre-Forward,21,Ghana,https://www.transfermarkt.com/emmanuel-boateng/profil/spieler/332612,2.5
+Armando Sadiku,Centre-Forward,unknown,"['Albania', 'Bulgaria']",https://www.transfermarkt.com/armando-sadiku/profil/spieler/140082,0.7
+Jordi Masip,Goalkeeper,1,Spain,https://www.transfermarkt.com/jordi-masip/profil/spieler/65263,6.0
+Yoel Rodríguez,Goalkeeper,unknown,Spain,https://www.transfermarkt.com/yoel-rodriguez/profil/spieler/58115,1.5
+José Antonio Caro,Goalkeeper,unknown,Spain,https://www.transfermarkt.com/jose-antonio-caro/profil/spieler/268946,0.4
+Samuel Pérez,Goalkeeper,unknown,Spain,https://www.transfermarkt.com/samuel-perez/profil/spieler/363541,0.25
+Fernando Calero,Centre-Back,5,Spain,https://www.transfermarkt.com/fernando-calero/profil/spieler/357884,10.0
+Joaquín Fernández,Centre-Back,2,Spain,https://www.transfermarkt.com/joaquin-fernandez/profil/spieler/221321,3.0
+Kiko Olivas,Centre-Back,4,Spain,https://www.transfermarkt.com/kiko-olivas/profil/spieler/51667,2.0
+Alberto Guitián,Centre-Back,unknown,Spain,https://www.transfermarkt.com/alberto-guitian/profil/spieler/230895,0.6
+Mohammed Salisu,Centre-Back,unknown,Ghana,https://www.transfermarkt.com/mohammed-salisu/profil/spieler/563963,0.25
+Nacho Martínez,Left-Back,22,Spain,https://www.transfermarkt.com/nacho-martinez/profil/spieler/127554,5.0
+Moi Delgado,Left-Back,3,Spain,https://www.transfermarkt.com/moi-delgado/profil/spieler/260230,0.3
+Roberto Corral,Left-Back,unknown,Spain,https://www.transfermarkt.com/roberto-corral/profil/spieler/379714,0.25
+Antoñito,Right-Back,18,Spain,https://www.transfermarkt.com/antonito/profil/spieler/62144,2.0
+Javi Moyano,Right-Back,17,Spain,https://www.transfermarkt.com/javi-moyano/profil/spieler/71204,0.8
+Javi Aparicio,Right-Back,unknown,Spain,https://www.transfermarkt.com/javi-aparicio/profil/spieler/501126,0.15
+Luismi,Defensive Midfield,6,Spain,https://www.transfermarkt.com/luismi/profil/spieler/207922,0.7
+Borja Fernández,Defensive Midfield,8,Spain,https://www.transfermarkt.com/borja-fernandez/profil/spieler/7512,0.1
+Rubén Alcaraz,Central Midfield,14,Spain,https://www.transfermarkt.com/ruben-alcaraz/profil/spieler/247250,10.0
+Fede San Emeterio,Central Midfield,unknown,Spain,https://www.transfermarkt.com/fede-san-emeterio/profil/spieler/307519,5.0
+Míchel Herrero,Central Midfield,21,Spain,https://www.transfermarkt.com/michel-herrero/profil/spieler/65331,2.0
+Anuar,Central Midfield,23,"['Morocco', 'Spain']",https://www.transfermarkt.com/anuar/profil/spieler/327126,1.5
+Antonio Cotán,Central Midfield,unknown,Spain,https://www.transfermarkt.com/antonio-cotan/profil/spieler/199330,0.5
+El Hacen,Central Midfield,unknown,Mauritania,https://www.transfermarkt.com/el-hacen/profil/spieler/321629,0.2
+Ivi López,Attacking Midfield,unknown,Spain,https://www.transfermarkt.com/ivi-lopez/profil/spieler/282371,1.0
+Antonio Domínguez,Attacking Midfield,unknown,Spain,https://www.transfermarkt.com/antonio-dominguez/profil/spieler/288453,0.15
+Pablo Muñoz,Attacking Midfield,unknown,Spain,https://www.transfermarkt.com/pablo-munoz/profil/spieler/531305,0.1
+Toni Villa,Left Winger,19,Spain,https://www.transfermarkt.com/toni-villa/profil/spieler/337066,4.0
+Waldo Rubio,Left Winger,7,Spain,https://www.transfermarkt.com/waldo-rubio/profil/spieler/404688,1.0
+Óscar Plano,Right Winger,10,Spain,https://www.transfermarkt.com/oscar-plano/profil/spieler/221309,4.0
+Daniele Verde,Right Winger,unknown,Italy,https://www.transfermarkt.com/daniele-verde/profil/spieler/256361,2.5
+Keko Gontán,Right Winger,unknown,Spain,https://www.transfermarkt.com/keko-gontan/profil/spieler/66112,2.0
+Leo Suárez,Right Winger,unknown,"['Argentina', 'Spain']",https://www.transfermarkt.com/leo-suarez/profil/spieler/294894,1.0
+Pablo Hervías,Right Winger,unknown,Spain,https://www.transfermarkt.com/pablo-hervias/profil/spieler/142027,0.7
+David Mayoral,Right Winger,unknown,Spain,https://www.transfermarkt.com/david-mayoral/profil/spieler/355629,0.3
+Kuki Zalazar,Second Striker,unknown,"['Spain', 'Uruguay']",https://www.transfermarkt.com/kuki-zalazar/profil/spieler/311696,0.25
+Enes Ünal,Centre-Forward,unknown,Turkey,https://www.transfermarkt.com/enes-unal/profil/spieler/251106,5.0
+Sergi Guardiola,Centre-Forward,12,Spain,https://www.transfermarkt.com/sergi-guardiola/profil/spieler/256429,5.0
+Duje Cop,Centre-Forward,unknown,Croatia,https://www.transfermarkt.com/duje-cop/profil/spieler/46415,1.5
+Stiven Plaza,Centre-Forward,42,Ecuador,https://www.transfermarkt.com/stiven-plaza/profil/spieler/591375,1.5
+Chris Ramos,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/chris-ramos/profil/spieler/538810,0.25
+Miguel de la Fuente,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/miguel-de-la-fuente/profil/spieler/480883,0.25
+Stole Dimitrievski,Goalkeeper,13,"['North Macedonia', 'Spain']",https://www.transfermarkt.com/stole-dimitrievski/profil/spieler/165467,3.0
+Alberto García,Goalkeeper,1,Spain,https://www.transfermarkt.com/alberto-garcia/profil/spieler/58497,0.5
+Miguel Ángel Morro,Goalkeeper,unknown,Spain,https://www.transfermarkt.com/miguel-angel-morro/profil/spieler/607780,0.1
+Jordi Amat,Centre-Back,16,Spain,https://www.transfermarkt.com/jordi-amat/profil/spieler/85289,3.0
+Abdoulaye Ba,Centre-Back,21,"['Senegal', 'Portugal']",https://www.transfermarkt.com/abdoulaye-ba/profil/spieler/106837,2.5
+Mario Suárez,Centre-Back,15,Spain,https://www.transfermarkt.com/mario-suarez/profil/spieler/37337,2.0
+Emiliano Velázquez,Centre-Back,20,Uruguay,https://www.transfermarkt.com/emiliano-velazquez/profil/spieler/189458,1.5
+Alejandro Gálvez,Centre-Back,23,Spain,https://www.transfermarkt.com/alejandro-galvez/profil/spieler/128488,1.5
+José León,Centre-Back,unknown,Spain,https://www.transfermarkt.com/jose-leon/profil/spieler/281773,0.4
+Alejandro Catena,Centre-Back,5,Spain,https://www.transfermarkt.com/alejandro-catena/profil/spieler/449796,0.4
+Chechu Dorado,Centre-Back,unknown,Spain,https://www.transfermarkt.com/chechu-dorado/profil/spieler/70898,0.2
+Martín Pascual,Centre-Back,unknown,Spain,https://www.transfermarkt.com/martin-pascual/profil/spieler/638588,0.1
+Álex Moreno,Left-Back,7,Spain,https://www.transfermarkt.com/alex-moreno/profil/spieler/193098,12.0
+Sergio Akieme,Left-Back,28,"['Equatorial Guinea', 'Spain']",https://www.transfermarkt.com/sergio-akieme/profil/spieler/355627,0.3
+Luis Meseguer,Left-Back,unknown,"['Equatorial Guinea', 'Spain']",https://www.transfermarkt.com/luis-meseguer/profil/spieler/603621,0.1
+Luis Advíncula,Right-Back,unknown,Peru,https://www.transfermarkt.com/luis-advincula/profil/spieler/103890,3.0
+Tito,Right-Back,2,Spain,https://www.transfermarkt.com/tito/profil/spieler/128295,0.5
+Giannelli Imbula,Defensive Midfield,unknown,"['DR Congo', 'France']",https://www.transfermarkt.com/giannelli-imbula/profil/spieler/130756,5.0
+Uche Agbo,Defensive Midfield,unknown,Nigeria,https://www.transfermarkt.com/uche-agbo/profil/spieler/262689,3.0
+Santi Comesaña,Central Midfield,27,Spain,https://www.transfermarkt.com/santi-comesana/profil/spieler/380598,4.0
+Álvaro Medrán,Central Midfield,unknown,Spain,https://www.transfermarkt.com/alvaro-medran/profil/spieler/253839,1.8
+Gorka Elustondo,Central Midfield,6,Spain,https://www.transfermarkt.com/gorka-elustondo/profil/spieler/47647,0.4
+Manuel Navarro,Central Midfield,unknown,Spain,https://www.transfermarkt.com/manuel-navarro/profil/spieler/629020,0.1
+Ángel Algobia,Central Midfield,unknown,"['Spain', 'Portugal']",https://www.transfermarkt.com/angel-algobia/profil/spieler/638589,0.1
+José Pozo,Attacking Midfield,22,Spain,https://www.transfermarkt.com/jose-pozo/profil/spieler/195605,3.0
+Óscar Trejo,Attacking Midfield,8,"['Argentina', 'Italy']",https://www.transfermarkt.com/oscar-trejo/profil/spieler/30321,2.0
+Gaël Kakuta,Attacking Midfield,10,"['DR Congo', 'France']",https://www.transfermarkt.com/gael-kakuta/profil/spieler/74297,2.0
+Álvaro García,Left Winger,18,Spain,https://www.transfermarkt.com/alvaro-garcia/profil/spieler/257062,5.0
+Bebé,Left Winger,14,"['Portugal', 'Cape Verde']",https://www.transfermarkt.com/bebe/profil/spieler/153427,2.0
+Adrián Embarba,Right Winger,11,Spain,https://www.transfermarkt.com/adrian-embarba/profil/spieler/288318,4.0
+Lass Bangoura,Right Winger,unknown,"['Guinea', 'Spain']",https://www.transfermarkt.com/lass-bangoura/profil/spieler/182963,0.7
+Raúl de Tomás,Centre-Forward,unknown,"['Spain', 'Dominican Republic']",https://www.transfermarkt.com/raul-de-tomas/profil/spieler/162038,20.0
+Franco Di Santo,Centre-Forward,25,"['Argentina', 'Italy']",https://www.transfermarkt.com/franco-di-santo/profil/spieler/59783,2.0
+Álex Alegría,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/alex-alegria/profil/spieler/178187,0.8
+Javi Guerra,Centre-Forward,24,Spain,https://www.transfermarkt.com/javi-guerra/profil/spieler/46215,0.2
+Sergio Moreno,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/sergio-moreno/profil/spieler/607779,0.1
+Rubén Blanco,Goalkeeper,13,Spain,https://www.transfermarkt.com/ruben-blanco/profil/spieler/199321,3.0
+Sergio Álvarez,Goalkeeper,1,Spain,https://www.transfermarkt.com/sergio-alvarez/profil/spieler/45912,2.0
+Iván Villar,Goalkeeper,26,Spain,https://www.transfermarkt.com/ivan-villar/profil/spieler/297194,0.3
+Wesley Hoedt,Centre-Back,12,Netherlands,https://www.transfermarkt.com/wesley-hoedt/profil/spieler/253765,12.0
+Néstor Araújo,Centre-Back,4,"['Mexico', 'Spain']",https://www.transfermarkt.com/nestor-araujo/profil/spieler/64134,8.0
+David Costas,Centre-Back,3,Spain,https://www.transfermarkt.com/david-costas/profil/spieler/276111,3.0
+Júnior Alonso,Centre-Back,25,Paraguay,https://www.transfermarkt.com/junior-alonso/profil/spieler/273000,3.0
+Facundo Roncaglia,Centre-Back,24,"['Argentina', 'Italy']",https://www.transfermarkt.com/facundo-roncaglia/profil/spieler/61546,2.5
+Gustavo Cabral,Centre-Back,22,"['Argentina', 'Spain']",https://www.transfermarkt.com/gustavo-cabral/profil/spieler/30677,1.5
+Lucas Olaza,Left-Back,15,Uruguay,https://www.transfermarkt.com/lucas-olaza/profil/spieler/216240,3.5
+David Juncà,Left-Back,17,Spain,https://www.transfermarkt.com/david-junca/profil/spieler/164055,1.5
+Robert Mazan,Left-Back,15,Slovakia,https://www.transfermarkt.com/robert-mazan/profil/spieler/181619,0.3
+Hugo Mallo,Right-Back,2,Spain,https://www.transfermarkt.com/hugo-mallo/profil/spieler/119905,15.0
+Kevin Vázquez,Right-Back,20,Spain,https://www.transfermarkt.com/kevin-vazquez/profil/spieler/221315,0.5
+Stanislav Lobotka,Defensive Midfield,14,Slovakia,https://www.transfermarkt.com/stanislav-lobotka/profil/spieler/192735,25.0
+Okay Yokuslu,Defensive Midfield,5,Turkey,https://www.transfermarkt.com/okay-yokuslu/profil/spieler/137616,12.0
+Nemanja Radoja,Defensive Midfield,6,Serbia,https://www.transfermarkt.com/nemanja-radoja/profil/spieler/168959,3.0
+Fran Beltrán,Central Midfield,8,Spain,https://www.transfermarkt.com/fran-beltran/profil/spieler/423444,18.0
+Mathias Jensen,Central Midfield,18,Denmark,https://www.transfermarkt.com/mathias-jensen/profil/spieler/319859,2.5
+Jozabed Sánchez,Central Midfield,21,Spain,https://www.transfermarkt.com/jozabed-sanchez/profil/spieler/207924,2.0
+Ryad Boudebouz,Attacking Midfield,24,"['Algeria', 'France']",https://www.transfermarkt.com/ryad-boudebouz/profil/spieler/77826,6.0
+Andrew Hjulsager,Attacking Midfield,16,Denmark,https://www.transfermarkt.com/andrew-hjulsager/profil/spieler/167798,1.0
+Sofiane Boufal,Left Winger,19,"['Morocco', 'France']",https://www.transfermarkt.com/sofiane-boufal/profil/spieler/232271,12.0
+Pione Sisto,Left Winger,11,"['Denmark', 'Southern Sudan']",https://www.transfermarkt.com/pione-sisto/profil/spieler/252641,8.0
+Brais Méndez,Right Winger,23,Spain,https://www.transfermarkt.com/brais-mendez/profil/spieler/309110,20.0
+Emre Mor,Right Winger,7,"['Turkey', 'Denmark']",https://www.transfermarkt.com/emre-mor/profil/spieler/283223,2.0
+Juan Hernández,Right Winger,unknown,Spain,https://www.transfermarkt.com/juan-hernandez/profil/spieler/349873,0.5
+Maxi Gómez,Centre-Forward,9,Uruguay,https://www.transfermarkt.com/maxi-gomez/profil/spieler/396894,40.0
+Iago Aspas,Centre-Forward,10,Spain,https://www.transfermarkt.com/iago-aspas/profil/spieler/72047,25.0
+Gabriel Fernández,Centre-Forward,unknown,Uruguay,https://www.transfermarkt.com/gabriel-fernandez/profil/spieler/259930,3.0
+Claudio Beauvue,Centre-Forward,unknown,"['Guadeloupe', 'France']",https://www.transfermarkt.com/claudio-beauvue/profil/spieler/58818,2.5
+Dennis Eckert Ayensa,Centre-Forward,32,"['Germany', 'Spain']",https://www.transfermarkt.com/dennis-eckert-ayensa/profil/spieler/249303,1.2
+Emmanuel Apeh,Centre-Forward,29,Nigeria,https://www.transfermarkt.com/emmanuel-apeh/profil/spieler/463332,0.3
+Roberto,Goalkeeper,1,Spain,https://www.transfermarkt.com/roberto/profil/spieler/37403,1.5
+Diego López,Goalkeeper,13,Spain,https://www.transfermarkt.com/diego-lopez/profil/spieler/34370,1.0
+Mario Hermoso,Centre-Back,22,Spain,https://www.transfermarkt.com/mario-hermoso/profil/spieler/281769,25.0
+Naldo,Centre-Back,5,"['Brazil', 'Italy']",https://www.transfermarkt.com/naldo/profil/spieler/148666,2.0
+Óscar Duarte,Centre-Back,6,"['Costa Rica', 'Spain']",https://www.transfermarkt.com/oscar-duarte/profil/spieler/175323,1.0
+Lluís López,Centre-Back,unknown,Spain,https://www.transfermarkt.com/lluis-lopez/profil/spieler/262391,0.3
+Iago Indias,Centre-Back,unknown,Spain,https://www.transfermarkt.com/iago-indias/profil/spieler/356196,0.2
+Aarón Martín,Left-Back,unknown,Spain,https://www.transfermarkt.com/aaron-martin/profil/spieler/251878,20.0
+Adrià Pedrosa,Left-Back,28,Spain,https://www.transfermarkt.com/adria-pedrosa/profil/spieler/501418,10.0
+Dídac Vilà,Left-Back,12,Spain,https://www.transfermarkt.com/didac-vila/profil/spieler/67090,4.0
+Javi López,Left-Back,16,Spain,https://www.transfermarkt.com/javi-lopez/profil/spieler/72310,1.0
+Roberto Rosales,Right-Back,unknown,"['Venezuela', 'Spain']",https://www.transfermarkt.com/roberto-rosales/profil/spieler/49500,2.5
+Pipa,Right-Back,unknown,Spain,https://www.transfermarkt.com/pipa/profil/spieler/423166,0.3
+Marc Roca,Defensive Midfield,21,Spain,https://www.transfermarkt.com/marc-roca/profil/spieler/336869,30.0
+David López,Defensive Midfield,15,Spain,https://www.transfermarkt.com/david-lopez/profil/spieler/129444,9.0
+Alfa Semedo,Defensive Midfield,unknown,"['Guinea-Bissau', 'Portugal']",https://www.transfermarkt.com/alfa-semedo/profil/spieler/359210,2.0
+Sergi Darder,Central Midfield,10,Spain,https://www.transfermarkt.com/sergi-darder/profil/spieler/142021,14.0
+Víctor Sánchez,Central Midfield,4,Spain,https://www.transfermarkt.com/victor-sanchez/profil/spieler/63290,3.0
+Esteban Granero,Central Midfield,23,Spain,https://www.transfermarkt.com/esteban-granero/profil/spieler/44065,3.0
+Álex López,Central Midfield,18,Spain,https://www.transfermarkt.com/alex-lopez/profil/spieler/313113,0.4
+Lei Wu,Left Winger,24,China,https://www.transfermarkt.com/lei-wu/profil/spieler/140436,10.0
+Pablo Piatti,Left Winger,19,"['Argentina', 'Italy']",https://www.transfermarkt.com/pablo-piatti/profil/spieler/56067,4.0
+Javi Puado,Left Winger,20,Spain,https://www.transfermarkt.com/javi-puado/profil/spieler/408471,1.0
+Carlos Doncel,Left Winger,unknown,Spain,https://www.transfermarkt.com/carlos-doncel/profil/spieler/379530,0.2
+Óscar Melendo,Right Winger,14,Spain,https://www.transfermarkt.com/oscar-melendo/profil/spieler/448344,10.0
+Hernán Pérez,Right Winger,17,"['Paraguay', 'Spain']",https://www.transfermarkt.com/hernan-perez/profil/spieler/73636,1.5
+Borja Iglesias,Centre-Forward,7,Spain,https://www.transfermarkt.com/borja-iglesias/profil/spieler/278359,28.0
+Leo Baptistão,Centre-Forward,unknown,"['Brazil', 'Spain']",https://www.transfermarkt.com/leo-baptistao/profil/spieler/221899,4.5
+Facundo Ferreyra,Centre-Forward,11,"['Argentina', 'Italy']",https://www.transfermarkt.com/facundo-ferreyra/profil/spieler/93795,4.0
+Álvaro Vázquez,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/alvaro-vazquez/profil/spieler/141835,1.0
+Sergio García,Centre-Forward,9,Spain,https://www.transfermarkt.com/sergio-garcia/profil/spieler/7922,1.0
+Víctor Campuzano,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/victor-campuzano/profil/spieler/394285,0.3
+Pau López,Goalkeeper,13,Spain,https://www.transfermarkt.com/pau-lopez/profil/spieler/286415,20.0
+Joel Robles,Goalkeeper,1,Spain,https://www.transfermarkt.com/joel-robles/profil/spieler/101118,5.0
+Marc Bartra,Centre-Back,5,Spain,https://www.transfermarkt.com/marc-bartra/profil/spieler/99922,22.0
+Aïssa Mandi,Centre-Back,23,"['Algeria', 'France']",https://www.transfermarkt.com/aissa-mandi/profil/spieler/80293,16.0
+Sidnei,Centre-Back,12,"['Brazil', 'Spain']",https://www.transfermarkt.com/sidnei/profil/spieler/27374,10.0
+Zouhair Feddal,Centre-Back,4,"['Morocco', 'Spain']",https://www.transfermarkt.com/zouhair-feddal/profil/spieler/129386,5.0
+Javi García,Centre-Back,3,Spain,https://www.transfermarkt.com/javi-garcia/profil/spieler/36350,2.0
+Alin Tosca,Centre-Back,unknown,Romania,https://www.transfermarkt.com/alin-tosca/profil/spieler/148004,1.25
+Edgar González,Centre-Back,32,Spain,https://www.transfermarkt.com/edgar-gonzalez/profil/spieler/401624,0.3
+Junior Firpo,Left-Back,20,"['Dominican Republic', 'Spain']",https://www.transfermarkt.com/junior-firpo/profil/spieler/374139,25.0
+Julio Alonso,Left-Back,30,Spain,https://www.transfermarkt.com/julio-alonso/profil/spieler/521455,0.1
+Diego Altamirano,Left-Back,37,Spain,https://www.transfermarkt.com/diego-altamirano/profil/spieler/261498,0.1
+Francis Guerrero,Right-Back,2,Spain,https://www.transfermarkt.com/francis-guerrero/profil/spieler/370691,6.0
+Emerson Royal,Right-Back,24,"['Brazil', 'Spain']",https://www.transfermarkt.com/emerson-royal/profil/spieler/476344,3.0
+Antonio Barragán,Right-Back,19,Spain,https://www.transfermarkt.com/antonio-barragan/profil/spieler/32522,2.0
+Paul Akouokou,Defensive Midfield,38,Cote d'Ivoire,https://www.transfermarkt.com/paul-akouokou/profil/spieler/429901,0.1
+Giovani Lo Celso,Central Midfield,21,"['Argentina', 'Italy']",https://www.transfermarkt.com/giovani-lo-celso/profil/spieler/348795,50.0
+William Carvalho,Central Midfield,14,"['Portugal', 'Angola']",https://www.transfermarkt.com/william-carvalho/profil/spieler/100131,25.0
+Víctor Camarasa,Central Midfield,unknown,Spain,https://www.transfermarkt.com/victor-camarasa/profil/spieler/263856,10.0
+Andrés Guardado,Central Midfield,18,"['Mexico', 'Spain']",https://www.transfermarkt.com/andres-guardado/profil/spieler/20506,5.0
+Wilfrid Kaptoum,Central Midfield,34,Cameroon,https://www.transfermarkt.com/wilfrid-kaptoum/profil/spieler/256120,4.0
+Darko Brasanac,Central Midfield,22,Serbia,https://www.transfermarkt.com/darko-brasanac/profil/spieler/95641,2.0
+Jaime Garijo,Central Midfield,37,Spain,https://www.transfermarkt.com/jaime-garijo/profil/spieler/566667,0.1
+Sergio Canales,Attacking Midfield,6,Spain,https://www.transfermarkt.com/sergio-canales/profil/spieler/66106,25.0
+Ryad Boudebouz,Attacking Midfield,10,"['Algeria', 'France']",https://www.transfermarkt.com/ryad-boudebouz/profil/spieler/77826,6.0
+Cristian Tello,Left Winger,11,Spain,https://www.transfermarkt.com/cristian-tello/profil/spieler/141834,10.0
+Takashi Inui,Left Winger,8,Japan,https://www.transfermarkt.com/takashi-inui/profil/spieler/98249,4.0
+José Manuel Irizo,Left Winger,28,Spain,https://www.transfermarkt.com/jose-manuel-irizo/profil/spieler/521462,0.15
+Diego Lainez,Right Winger,22,"['Mexico', 'Spain']",https://www.transfermarkt.com/diego-lainez/profil/spieler/371174,14.0
+Joaquín,Right Winger,17,Spain,https://www.transfermarkt.com/joaquin/profil/spieler/7663,2.0
+Rober González,Right Winger,33,Spain,https://www.transfermarkt.com/rober-gonzalez/profil/spieler/505675,0.2
+Adrián Tellado,Right Winger,27,Spain,https://www.transfermarkt.com/adrian-tellado/profil/spieler/548618,0.1
+Loren Morón,Centre-Forward,16,Spain,https://www.transfermarkt.com/loren-moron/profil/spieler/354741,10.0
+Antonio Sanabria,Centre-Forward,9,"['Paraguay', 'Spain']",https://www.transfermarkt.com/antonio-sanabria/profil/spieler/234523,9.0
+Jesé,Centre-Forward,10,Spain,https://www.transfermarkt.com/jese/profil/spieler/134936,5.0
+Sergio León,Centre-Forward,7,Spain,https://www.transfermarkt.com/sergio-leon/profil/spieler/145769,3.0
+Álex Alegría,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/alex-alegria/profil/spieler/178187,0.8
+Juanjo Narváez,Centre-Forward,unknown,"['Colombia', 'Spain']",https://www.transfermarkt.com/juanjo-narvaez/profil/spieler/213595,0.7
+Thibaut Courtois,Goalkeeper,25,Belgium,https://www.transfermarkt.com/thibaut-courtois/profil/spieler/108390,55.0
+Keylor Navas,Goalkeeper,1,"['Costa Rica', 'Spain']",https://www.transfermarkt.com/keylor-navas/profil/spieler/79422,10.0
+Andriy Lunin,Goalkeeper,26,Ukraine,https://www.transfermarkt.com/andriy-lunin/profil/spieler/404839,7.5
+Kiko Casilla,Goalkeeper,13,Spain,https://www.transfermarkt.com/kiko-casilla/profil/spieler/27486,3.0
+Luca Zidane,Goalkeeper,30,"['France', 'Spain']",https://www.transfermarkt.com/luca-zidane/profil/spieler/283489,1.0
+Raphaël Varane,Centre-Back,5,"['France', 'Martinique']",https://www.transfermarkt.com/raphael-varane/profil/spieler/164770,70.0
+Sergio Ramos,Centre-Back,4,Spain,https://www.transfermarkt.com/sergio-ramos/profil/spieler/25557,25.0
+Nacho Fernández,Centre-Back,6,Spain,https://www.transfermarkt.com/nacho-fernandez/profil/spieler/58884,25.0
+Jesús Vallejo,Centre-Back,3,Spain,https://www.transfermarkt.com/jesus-vallejo/profil/spieler/251896,10.0
+Javi Sánchez,Centre-Back,31,Spain,https://www.transfermarkt.com/javi-sanchez/profil/spieler/340853,2.0
+Adrián de la Fuente,Centre-Back,26,Spain,https://www.transfermarkt.com/adrian-de-la-fuente/profil/spieler/341263,0.3
+Marcelo,Left-Back,12,"['Brazil', 'Spain']",https://www.transfermarkt.com/marcelo/profil/spieler/44501,25.0
+Theo Hernández,Left-Back,unknown,"['France', 'Spain']",https://www.transfermarkt.com/theo-hernandez/profil/spieler/339808,15.0
+Sergio Reguilón,Left-Back,23,Spain,https://www.transfermarkt.com/sergio-reguilon/profil/spieler/282429,15.0
+Fran García,Left-Back,37,Spain,https://www.transfermarkt.com/fran-garcia/profil/spieler/341264,0.25
+Daniel Carvajal,Right-Back,2,Spain,https://www.transfermarkt.com/daniel-carvajal/profil/spieler/138927,50.0
+Lucas Vázquez,Right-Back,17,Spain,https://www.transfermarkt.com/lucas-vazquez/profil/spieler/221316,25.0
+Álvaro Odriozola,Right-Back,19,Spain,https://www.transfermarkt.com/alvaro-odriozola/profil/spieler/280730,25.0
+Casemiro,Defensive Midfield,14,"['Brazil', 'Spain']",https://www.transfermarkt.com/casemiro/profil/spieler/16306,60.0
+Lucas Silva,Defensive Midfield,unknown,Brazil,https://www.transfermarkt.com/lucas-silva/profil/spieler/218118,2.0
+Toni Kroos,Central Midfield,8,Germany,https://www.transfermarkt.com/toni-kroos/profil/spieler/31909,60.0
+Mateo Kovacic,Central Midfield,unknown,Croatia,https://www.transfermarkt.com/mateo-kovacic/profil/spieler/51471,35.0
+Dani Ceballos,Central Midfield,24,Spain,https://www.transfermarkt.com/dani-ceballos/profil/spieler/319745,30.0
+Luka Modric,Central Midfield,10,Croatia,https://www.transfermarkt.com/luka-modric/profil/spieler/27992,20.0
+Federico Valverde,Central Midfield,15,"['Uruguay', 'Spain']",https://www.transfermarkt.com/federico-valverde/profil/spieler/369081,20.0
+Marcos Llorente,Central Midfield,18,Spain,https://www.transfermarkt.com/marcos-llorente/profil/spieler/282411,20.0
+Jaume Grau,Central Midfield,39,Spain,https://www.transfermarkt.com/jaume-grau/profil/spieler/340864,0.3
+Jaime Seoane,Central Midfield,33,Spain,https://www.transfermarkt.com/jaime-seoane/profil/spieler/340867,0.25
+Isco,Attacking Midfield,22,Spain,https://www.transfermarkt.com/isco/profil/spieler/85288,60.0
+James Rodríguez,Attacking Midfield,unknown,"['Colombia', 'Spain']",https://www.transfermarkt.com/james-rodriguez/profil/spieler/88103,50.0
+Brahim Díaz,Attacking Midfield,21,"['Spain', 'Morocco']",https://www.transfermarkt.com/brahim-diaz/profil/spieler/314678,17.0
+Martin Ødegaard,Attacking Midfield,unknown,Norway,https://www.transfermarkt.com/martin-odegaard/profil/spieler/316264,15.0
+Álvaro Fidalgo,Attacking Midfield,36,Spain,https://www.transfermarkt.com/alvaro-fidalgo/profil/spieler/261503,0.3
+Vinicius Junior,Left Winger,28,Brazil,https://www.transfermarkt.com/vinicius-junior/profil/spieler/371998,70.0
+Gareth Bale,Right Winger,11,Wales,https://www.transfermarkt.com/gareth-bale/profil/spieler/39381,60.0
+Marco Asensio,Right Winger,20,"['Spain', 'Netherlands']",https://www.transfermarkt.com/marco-asensio/profil/spieler/296622,60.0
+Franchu,Right Winger,34,"['Argentina', 'Spain']",https://www.transfermarkt.com/franchu/profil/spieler/458466,0.2
+Karim Benzema,Centre-Forward,9,"['France', 'Algeria']",https://www.transfermarkt.com/karim-benzema/profil/spieler/18922,40.0
+Raúl de Tomás,Centre-Forward,unknown,"['Spain', 'Dominican Republic']",https://www.transfermarkt.com/raul-de-tomas/profil/spieler/162038,20.0
+Mariano Díaz,Centre-Forward,7,"['Dominican Republic', 'Spain']",https://www.transfermarkt.com/mariano-diaz/profil/spieler/225020,20.0
+Cristo González,Centre-Forward,27,Spain,https://www.transfermarkt.com/cristo-gonzalez/profil/spieler/339707,5.0
+Borja Mayoral,Centre-Forward,21,Spain,https://www.transfermarkt.com/borja-mayoral/profil/spieler/298976,4.0
+Gerónimo Rulli,Goalkeeper,1,"['Argentina', 'Italy']",https://www.transfermarkt.com/geronimo-rulli/profil/spieler/229604,10.0
+Miguel Ángel Moyá,Goalkeeper,13,Spain,https://www.transfermarkt.com/miguel-angel-moya/profil/spieler/26065,1.5
+Andoni Zubiaurre,Goalkeeper,30,Spain,https://www.transfermarkt.com/andoni-zubiaurre/profil/spieler/428948,0.3
+Igor Zubeldia,Centre-Back,5,Spain,https://www.transfermarkt.com/igor-zubeldia/profil/spieler/355628,30.0
+Diego Llorente,Centre-Back,3,Spain,https://www.transfermarkt.com/diego-llorente/profil/spieler/246291,25.0
+Aritz Elustondo,Centre-Back,15,Spain,https://www.transfermarkt.com/aritz-elustondo/profil/spieler/229804,10.0
+Héctor Moreno,Centre-Back,6,"['Mexico', 'Spain']",https://www.transfermarkt.com/hector-moreno/profil/spieler/51046,6.0
+Robin Le Normand,Centre-Back,27,France,https://www.transfermarkt.com/robin-le-normand/profil/spieler/351809,4.0
+Raúl Navas,Centre-Back,22,Spain,https://www.transfermarkt.com/raul-navas/profil/spieler/142419,3.0
+Theo Hernández,Left-Back,19,"['France', 'Spain']",https://www.transfermarkt.com/theo-hernandez/profil/spieler/339808,15.0
+Aihen Muñoz,Left-Back,29,Spain,https://www.transfermarkt.com/aihen-munoz/profil/spieler/517842,7.5
+Kévin Rodrigues,Left-Back,20,"['Portugal', 'France']",https://www.transfermarkt.com/kevin-rodrigues/profil/spieler/206947,3.0
+Joseba Zaldua,Right-Back,2,Spain,https://www.transfermarkt.com/joseba-zaldua/profil/spieler/197135,10.0
+Andoni Gorosabel,Right-Back,18,Spain,https://www.transfermarkt.com/andoni-gorosabel/profil/spieler/289255,1.5
+Álex Sola,Right-Back,35,Spain,https://www.transfermarkt.com/alex-sola/profil/spieler/434990,0.2
+Asier Illarramendi,Defensive Midfield,4,Spain,https://www.transfermarkt.com/asier-illarramendi/profil/spieler/59344,25.0
+Martín Zubimendi,Defensive Midfield,36,Spain,https://www.transfermarkt.com/martin-zubimendi/profil/spieler/423440,0.1
+Mikel Merino,Central Midfield,8,Spain,https://www.transfermarkt.com/mikel-merino/profil/spieler/338424,15.0
+Rubén Pardo,Central Midfield,14,Spain,https://www.transfermarkt.com/ruben-pardo/profil/spieler/99352,4.0
+Luca Sangalli,Central Midfield,23,"['Spain', 'Italy']",https://www.transfermarkt.com/luca-sangalli/profil/spieler/289286,4.0
+David Zurutuza,Central Midfield,17,"['Spain', 'France']",https://www.transfermarkt.com/david-zurutuza/profil/spieler/59375,2.5
+Ander Guevara,Central Midfield,26,Spain,https://www.transfermarkt.com/ander-guevara/profil/spieler/465967,2.5
+Roberto López,Attacking Midfield,28,Spain,https://www.transfermarkt.com/roberto-lopez/profil/spieler/569866,1.0
+Mikel Oyarzabal,Left Winger,10,Spain,https://www.transfermarkt.com/mikel-oyarzabal/profil/spieler/351478,50.0
+Ander Barrenetxea,Left Winger,34,Spain,https://www.transfermarkt.com/ander-barrenetxea/profil/spieler/616369,10.0
+Juanmi,Left Winger,7,Spain,https://www.transfermarkt.com/juanmi/profil/spieler/126737,8.0
+Martín Merquelanz,Left Winger,16,Spain,https://www.transfermarkt.com/martin-merquelanz/profil/spieler/289272,0.4
+Näis Djouahra,Left Winger,31,"['France', 'Algeria']",https://www.transfermarkt.com/nais-djouahra/profil/spieler/594926,0.15
+Adnan Januzaj,Right Winger,11,"['Belgium', 'Kosovo']",https://www.transfermarkt.com/adnan-januzaj/profil/spieler/177847,15.0
+Zourdine Thior,Right Winger,38,Senegal,https://www.transfermarkt.com/zourdine-thior/profil/spieler/563335,0.3
+Willian José,Centre-Forward,12,"['Brazil', 'Spain']",https://www.transfermarkt.com/willian-jose/profil/spieler/122155,30.0
+Sandro Ramírez,Centre-Forward,24,Spain,https://www.transfermarkt.com/sandro-ramirez/profil/spieler/199369,4.0
+Jon Bautista,Centre-Forward,21,Spain,https://www.transfermarkt.com/jon-bautista/profil/spieler/289236,2.0
+Marko Dmitrovic,Goalkeeper,1,Serbia,https://www.transfermarkt.com/marko-dmitrovic/profil/spieler/94308,10.0
+Yoel Rodríguez,Goalkeeper,unknown,Spain,https://www.transfermarkt.com/yoel-rodriguez/profil/spieler/58115,1.5
+Asier Riesgo,Goalkeeper,13,Spain,https://www.transfermarkt.com/asier-riesgo/profil/spieler/23338,0.4
+Markel Areitio,Goalkeeper,unknown,Spain,https://www.transfermarkt.com/markel-areitio/profil/spieler/288371,0.2
+Paulo Oliveira,Centre-Back,12,Portugal,https://www.transfermarkt.com/paulo-oliveira/profil/spieler/139336,6.0
+Pedro Bigas,Centre-Back,unknown,Spain,https://www.transfermarkt.com/pedro-bigas/profil/spieler/203043,3.0
+Anaitz Arbilla,Centre-Back,23,Spain,https://www.transfermarkt.com/anaitz-arbilla/profil/spieler/71548,2.0
+José Antonio Martínez,Centre-Back,unknown,Spain,https://www.transfermarkt.com/jose-antonio-martinez/profil/spieler/311287,1.2
+Iván Ramis,Centre-Back,4,Spain,https://www.transfermarkt.com/ivan-ramis/profil/spieler/26066,1.0
+Unai Elgezabal,Centre-Back,unknown,Spain,https://www.transfermarkt.com/unai-elgezabal/profil/spieler/255495,0.4
+Kaiser,Centre-Back,unknown,Spain,https://www.transfermarkt.com/kaiser/profil/spieler/255904,0.25
+Marc Cucurella,Left-Back,unknown,Spain,https://www.transfermarkt.com/marc-cucurella/profil/spieler/284857,10.0
+Cote,Left-Back,15,Spain,https://www.transfermarkt.com/cote/profil/spieler/87469,5.0
+Rubén Peña,Right-Back,11,Spain,https://www.transfermarkt.com/ruben-pena/profil/spieler/238868,10.0
+Jordi Calavera,Right-Back,2,Spain,https://www.transfermarkt.com/jordi-calavera/profil/spieler/286849,0.6
+Pape Diop,Defensive Midfield,8,"['Senegal', 'France']",https://www.transfermarkt.com/pape-diop/profil/spieler/39907,1.5
+Joan Jordán,Central Midfield,24,Spain,https://www.transfermarkt.com/joan-jordan/profil/spieler/263727,12.0
+Gonzalo Escalante,Central Midfield,5,"['Argentina', 'Italy']",https://www.transfermarkt.com/gonzalo-escalante/profil/spieler/266795,4.0
+Sergio Álvarez,Central Midfield,6,Spain,https://www.transfermarkt.com/sergio-alvarez/profil/spieler/138935,2.5
+Miguel Marí,Central Midfield,unknown,Spain,https://www.transfermarkt.com/miguel-mari/profil/spieler/398738,0.25
+Bebé,Left Winger,unknown,"['Portugal', 'Cape Verde']",https://www.transfermarkt.com/bebe/profil/spieler/153427,2.0
+Pablo de Blasis,Left Winger,16,Argentina,https://www.transfermarkt.com/pablo-de-blasis/profil/spieler/75446,2.0
+Fabián Orellana,Right Winger,14,"['Chile', 'Spain']",https://www.transfermarkt.com/fabian-orellana/profil/spieler/60890,2.5
+Pedro León,Right Winger,21,Spain,https://www.transfermarkt.com/pedro-leon/profil/spieler/51587,1.8
+Pablo Hervías,Right Winger,unknown,Spain,https://www.transfermarkt.com/pablo-hervias/profil/spieler/142027,0.7
+Pere Milla,Second Striker,22,Spain,https://www.transfermarkt.com/pere-milla/profil/spieler/225593,0.7
+Sergi Enrich,Centre-Forward,9,Spain,https://www.transfermarkt.com/sergi-enrich/profil/spieler/81988,7.5
+Kike García,Centre-Forward,17,Spain,https://www.transfermarkt.com/kike-garcia/profil/spieler/93936,3.0
+Charles,Centre-Forward,19,"['Brazil', 'Portugal']",https://www.transfermarkt.com/charles/profil/spieler/154059,2.0
+Marc Cardona,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/marc-cardona/profil/spieler/443222,1.5
+Nano Mesa,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/nano-mesa/profil/spieler/305956,0.6
+Alberto Marí,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/alberto-mari/profil/spieler/634105,0.1
+Aleksandar Jovanovic,Goalkeeper,25,"['Serbia', 'Montenegro']",https://www.transfermarkt.com/aleksandar-jovanovic/profil/spieler/256567,1.0
+Axel Werner,Goalkeeper,unknown,"['Argentina', 'Italy']",https://www.transfermarkt.com/axel-werner/profil/spieler/236734,0.6
+Javi Varas,Goalkeeper,1,Spain,https://www.transfermarkt.com/javi-varas/profil/spieler/58341,0.3
+Roberto Santamaría,Goalkeeper,13,Spain,https://www.transfermarkt.com/roberto-santamaria/profil/spieler/35541,0.3
+Antonio Valera,Goalkeeper,unknown,Spain,https://www.transfermarkt.com/antonio-valera/profil/spieler/290275,0.2
+Ander Bardají,Goalkeeper,unknown,Spain,https://www.transfermarkt.com/ander-bardaji/profil/spieler/229798,0.1
+Jorge Pulido,Centre-Back,14,Spain,https://www.transfermarkt.com/jorge-pulido/profil/spieler/67546,3.0
+Xabi Etxeita,Centre-Back,unknown,Spain,https://www.transfermarkt.com/xabi-etxeita/profil/spieler/71559,2.0
+Rúben Semedo,Centre-Back,unknown,"['Portugal', 'Cape Verde']",https://www.transfermarkt.com/ruben-semedo/profil/spieler/197602,2.0
+Pablo Insua,Centre-Back,unknown,Spain,https://www.transfermarkt.com/pablo-insua/profil/spieler/171362,1.5
+Martín Mantovani,Centre-Back,unknown,"['Argentina', 'Italy']",https://www.transfermarkt.com/martin-mantovani/profil/spieler/73180,0.4
+Adrián Diéguez,Centre-Back,unknown,Spain,https://www.transfermarkt.com/adrian-dieguez/profil/spieler/355335,0.3
+Nacho Uche,Centre-Back,unknown,Spain,https://www.transfermarkt.com/nacho-uche/profil/spieler/639142,0.1
+Javi Galán,Left-Back,12,Spain,https://www.transfermarkt.com/javi-galan/profil/spieler/448628,1.5
+Luisinho,Left-Back,16,Portugal,https://www.transfermarkt.com/luisinho/profil/spieler/56777,0.5
+Rajko Brezancic,Left-Back,unknown,"['Serbia', 'Bosnia-Herzegovina']",https://www.transfermarkt.com/rajko-brezancic/profil/spieler/60289,0.4
+Jorge Miramón,Right-Back,24,Spain,https://www.transfermarkt.com/jorge-miramon/profil/spieler/228917,3.0
+Carlos Akapo,Right-Back,15,"['Equatorial Guinea', 'Spain']",https://www.transfermarkt.com/carlos-akapo/profil/spieler/225015,0.8
+Javier Almerge,Right-Back,unknown,Spain,https://www.transfermarkt.com/javier-almerge/profil/spieler/561614,0.1
+Damián Musto,Defensive Midfield,unknown,"['Argentina', 'Italy']",https://www.transfermarkt.com/damian-musto/profil/spieler/67823,1.2
+Gonzalo Melero,Central Midfield,8,Spain,https://www.transfermarkt.com/gonzalo-melero/profil/spieler/162056,4.0
+Christian Rivera,Central Midfield,unknown,Spain,https://www.transfermarkt.com/christian-rivera/profil/spieler/374077,2.5
+Yangel Herrera,Central Midfield,unknown,Venezuela,https://www.transfermarkt.com/yangel-herrera/profil/spieler/378293,2.0
+Lluis Sastre,Central Midfield,unknown,Spain,https://www.transfermarkt.com/lluis-sastre/profil/spieler/8108,0.3
+Juan Aguilera,Central Midfield,5,Spain,https://www.transfermarkt.com/juan-aguilera/profil/spieler/75820,0.3
+Javito,Central Midfield,unknown,Spain,https://www.transfermarkt.com/javito/profil/spieler/391045,0.1
+Juanpi Añor,Attacking Midfield,unknown,"['Venezuela', 'Spain']",https://www.transfermarkt.com/juanpi-anor/profil/spieler/256680,2.0
+Eugeni,Attacking Midfield,unknown,Spain,https://www.transfermarkt.com/eugeni/profil/spieler/223073,1.5
+Jonathan Toro,Attacking Midfield,unknown,"['Honduras', 'Portugal']",https://www.transfermarkt.com/jonathan-toro/profil/spieler/382773,0.4
+Juanjo Camacho,Attacking Midfield,10,Spain,https://www.transfermarkt.com/juanjo-camacho/profil/spieler/26148,0.1
+Moi Gómez,Left Winger,unknown,Spain,https://www.transfermarkt.com/moi-gomez/profil/spieler/175449,5.0
+Álex Gallar,Left Winger,11,Spain,https://www.transfermarkt.com/alex-gallar/profil/spieler/210143,1.4
+David Ferreiro,Right Winger,7,Spain,https://www.transfermarkt.com/david-ferreiro/profil/spieler/71918,1.8
+Serdar Gürler,Right Winger,unknown,"['Turkey', 'France']",https://www.transfermarkt.com/serdar-gurler/profil/spieler/98512,1.5
+Cucho Hernández,Centre-Forward,unknown,Colombia,https://www.transfermarkt.com/cucho-hernandez/profil/spieler/459463,10.0
+Chimy Ávila,Centre-Forward,unknown,Argentina,https://www.transfermarkt.com/chimy-avila/profil/spieler/167721,5.0
+Enric Gallego,Centre-Forward,22,Spain,https://www.transfermarkt.com/enric-gallego/profil/spieler/114060,3.0
+Samuele Longo,Centre-Forward,unknown,Italy,https://www.transfermarkt.com/samuele-longo/profil/spieler/124560,1.0
+Dani Escriche,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/dani-escriche/profil/spieler/531829,0.5
+Tomas Vaclik,Goalkeeper,1,Czech Republic,https://www.transfermarkt.com/tomas-vaclik/profil/spieler/64000,18.0
+Sergio Rico,Goalkeeper,1,Spain,https://www.transfermarkt.com/sergio-rico/profil/spieler/207302,12.0
+Juan Soriano,Goalkeeper,13,Spain,https://www.transfermarkt.com/juan-soriano/profil/spieler/251892,2.5
+Lucho García,Goalkeeper,38,"['Colombia', 'Spain']",https://www.transfermarkt.com/lucho-garcia/profil/spieler/469737,0.25
+Javi Díaz,Goalkeeper,34,Spain,https://www.transfermarkt.com/javi-diaz/profil/spieler/396107,0.2
+Maximilian Wöber,Centre-Back,14,Austria,https://www.transfermarkt.com/maximilian-wober/profil/spieler/263361,10.0
+Sergi Gómez,Centre-Back,3,Spain,https://www.transfermarkt.com/sergi-gomez/profil/spieler/92947,9.0
+Simon Kjaer,Centre-Back,4,Denmark,https://www.transfermarkt.com/simon-kjaer/profil/spieler/48859,8.0
+Joris Gnagnon,Centre-Back,24,"['France', ""Cote d'Ivoire""]",https://www.transfermarkt.com/joris-gnagnon/profil/spieler/378954,6.0
+Daniel Carriço,Centre-Back,6,Portugal,https://www.transfermarkt.com/daniel-carrico/profil/spieler/37712,3.0
+Nicolás Pareja,Centre-Back,21,"['Argentina', 'Italy']",https://www.transfermarkt.com/nicolas-pareja/profil/spieler/41281,0.5
+Juan Berrocal,Centre-Back,37,Spain,https://www.transfermarkt.com/juan-berrocal/profil/spieler/461843,0.5
+Sergio Escudero,Left-Back,18,Spain,https://www.transfermarkt.com/sergio-escudero/profil/spieler/93935,7.5
+Guilherme Arana,Left-Back,23,Brazil,https://www.transfermarkt.com/guilherme-arana/profil/spieler/346766,3.0
+Javi Vázquez,Left-Back,40,Spain,https://www.transfermarkt.com/javi-vazquez/profil/spieler/461866,0.1
+Aleix Vidal,Right-Back,11,Spain,https://www.transfermarkt.com/aleix-vidal/profil/spieler/88490,4.0
+Jesús Navas,Right-Back,16,Spain,https://www.transfermarkt.com/jesus-navas/profil/spieler/15956,4.0
+Gabriel Mercado,Right-Back,25,"['Argentina', 'Spain']",https://www.transfermarkt.com/gabriel-mercado/profil/spieler/45319,2.5
+Sébastien Corchia,Right-Back,2,"['France', 'Italy']",https://www.transfermarkt.com/sebastien-corchia/profil/spieler/102744,2.0
+Ibrahim Amadou,Defensive Midfield,5,"['France', 'Cameroon']",https://www.transfermarkt.com/ibrahim-amadou/profil/spieler/205503,7.0
+Maxime Gonalons,Defensive Midfield,15,France,https://www.transfermarkt.com/maxime-gonalons/profil/spieler/60542,4.0
+Éver Banega,Central Midfield,10,"['Argentina', 'Spain']",https://www.transfermarkt.com/ever-banega/profil/spieler/12249,15.0
+Roque Mesa,Central Midfield,7,Spain,https://www.transfermarkt.com/roque-mesa/profil/spieler/202984,7.0
+Marko Rog,Central Midfield,20,Croatia,https://www.transfermarkt.com/marko-rog/profil/spieler/317482,6.0
+Franco Vázquez,Attacking Midfield,22,"['Argentina', 'Italy']",https://www.transfermarkt.com/franco-vazquez/profil/spieler/76163,15.0
+Ganso,Attacking Midfield,19,Brazil,https://www.transfermarkt.com/ganso/profil/spieler/67920,2.0
+Borja Lasso,Attacking Midfield,20,Spain,https://www.transfermarkt.com/borja-lasso/profil/spieler/268949,0.7
+Pepe Mena,Attacking Midfield,29,Spain,https://www.transfermarkt.com/pepe-mena/profil/spieler/396145,0.25
+Quincy Promes,Left Winger,21,"['Netherlands', 'Suriname']",https://www.transfermarkt.com/quincy-promes/profil/spieler/182381,18.0
+Bryan Gil,Left Winger,41,Spain,https://www.transfermarkt.com/bryan-gil/profil/spieler/537382,10.0
+Nolito,Left Winger,8,Spain,https://www.transfermarkt.com/nolito/profil/spieler/70934,2.0
+Pejiño,Left Winger,26,Spain,https://www.transfermarkt.com/pejino/profil/spieler/534379,0.3
+Pablo Sarabia,Right Winger,17,Spain,https://www.transfermarkt.com/pablo-sarabia/profil/spieler/74230,40.0
+Wissam Ben Yedder,Centre-Forward,9,"['France', 'Tunisia']",https://www.transfermarkt.com/wissam-ben-yedder/profil/spieler/146854,40.0
+André Silva,Centre-Forward,12,Portugal,https://www.transfermarkt.com/andre-silva/profil/spieler/198008,22.0
+Luis Muriel,Centre-Forward,14,Colombia,https://www.transfermarkt.com/luis-muriel/profil/spieler/119228,13.0
+Munir El Haddadi,Centre-Forward,19,"['Morocco', 'Spain']",https://www.transfermarkt.com/munir-el-haddadi/profil/spieler/223725,10.0
+Carlos Fernández,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/carlos-fernandez/profil/spieler/216464,2.0
+Marc Gual,Centre-Forward,28,Spain,https://www.transfermarkt.com/marc-gual/profil/spieler/376486,1.0
+Neto,Goalkeeper,13,"['Brazil', 'Italy']",https://www.transfermarkt.com/neto/profil/spieler/111819,18.0
+Jaume Doménech,Goalkeeper,1,Spain,https://www.transfermarkt.com/jaume-domenech/profil/spieler/227805,2.5
+Cristian Rivero,Goalkeeper,unknown,Spain,https://www.transfermarkt.com/cristian-rivero/profil/spieler/398131,0.25
+Gabriel Paulista,Centre-Back,5,"['Brazil', 'Spain']",https://www.transfermarkt.com/gabriel-paulista/profil/spieler/149498,20.0
+Mouctar Diakhaby,Centre-Back,12,"['France', 'Guinea']",https://www.transfermarkt.com/mouctar-diakhaby/profil/spieler/346289,20.0
+Jeison Murillo,Centre-Back,unknown,"['Colombia', 'Spain']",https://www.transfermarkt.com/jeison-murillo/profil/spieler/131102,10.0
+Ezequiel Garay,Centre-Back,24,"['Argentina', 'Spain']",https://www.transfermarkt.com/ezequiel-garay/profil/spieler/35939,8.0
+Rúben Vezo,Centre-Back,unknown,"['Portugal', 'Cape Verde']",https://www.transfermarkt.com/ruben-vezo/profil/spieler/257851,6.0
+Facundo Roncaglia,Centre-Back,unknown,"['Argentina', 'Italy']",https://www.transfermarkt.com/facundo-roncaglia/profil/spieler/61546,2.5
+Aymen Abdennour,Centre-Back,unknown,Tunisia,https://www.transfermarkt.com/aymen-abdennour/profil/spieler/108830,2.0
+José Gayà,Left-Back,14,Spain,https://www.transfermarkt.com/jose-gaya/profil/spieler/221322,50.0
+Toni Lato,Left-Back,15,Spain,https://www.transfermarkt.com/toni-lato/profil/spieler/320271,5.0
+Álex Centelles,Left-Back,unknown,Spain,https://www.transfermarkt.com/alex-centelles/profil/spieler/423443,1.0
+Daniel Wass,Right-Back,18,Denmark,https://www.transfermarkt.com/daniel-wass/profil/spieler/63463,14.0
+Cristiano Piccini,Right-Back,21,Italy,https://www.transfermarkt.com/cristiano-piccini/profil/spieler/163086,10.0
+Geoffrey Kondogbia,Defensive Midfield,6,"['Central African Republic', 'France']",https://www.transfermarkt.com/geoffrey-kondogbia/profil/spieler/127189,30.0
+Francis Coquelin,Defensive Midfield,17,"['France', 'Réunion']",https://www.transfermarkt.com/francis-coquelin/profil/spieler/74869,17.5
+Uros Racic,Defensive Midfield,unknown,Serbia,https://www.transfermarkt.com/uros-racic/profil/spieler/417575,5.0
+Hugo Guillamón,Defensive Midfield,unknown,Spain,https://www.transfermarkt.com/hugo-guillamon/profil/spieler/495629,0.2
+Carlos Soler,Central Midfield,8,Spain,https://www.transfermarkt.com/carlos-soler/profil/spieler/372246,50.0
+Dani Parejo,Central Midfield,10,Spain,https://www.transfermarkt.com/dani-parejo/profil/spieler/59561,30.0
+Álvaro Medrán,Central Midfield,unknown,Spain,https://www.transfermarkt.com/alvaro-medran/profil/spieler/253839,1.8
+Kang-in Lee,Attacking Midfield,16,"Korea, South",https://www.transfermarkt.com/kang-in-lee/profil/spieler/557149,10.0
+Gonçalo Guedes,Left Winger,7,Portugal,https://www.transfermarkt.com/goncalo-guedes/profil/spieler/225122,40.0
+Denis Cheryshev,Left Winger,11,"['Russia', 'Spain']",https://www.transfermarkt.com/denis-cheryshev/profil/spieler/98322,6.0
+Nacho Gil,Left Winger,unknown,Spain,https://www.transfermarkt.com/nacho-gil/profil/spieler/336731,0.7
+Álex Blanco,Left Winger,unknown,Spain,https://www.transfermarkt.com/alex-blanco/profil/spieler/328914,0.5
+Sito,Left Winger,unknown,Spain,https://www.transfermarkt.com/sito/profil/spieler/320259,0.2
+Ferran Torres,Right Winger,20,Spain,https://www.transfermarkt.com/ferran-torres/profil/spieler/398184,20.0
+Rodrigo,Second Striker,19,"['Spain', 'Brazil']",https://www.transfermarkt.com/rodrigo/profil/spieler/131505,50.0
+Michy Batshuayi,Centre-Forward,unknown,"['Belgium', 'DR Congo']",https://www.transfermarkt.com/michy-batshuayi/profil/spieler/179184,30.0
+Santi Mina,Centre-Forward,22,Spain,https://www.transfermarkt.com/santi-mina/profil/spieler/255653,30.0
+Simone Zaza,Centre-Forward,unknown,Italy,https://www.transfermarkt.com/simone-zaza/profil/spieler/96828,10.0
+Kévin Gameiro,Centre-Forward,9,France,https://www.transfermarkt.com/kevin-gameiro/profil/spieler/27389,9.0
+Rubén Sobrino,Centre-Forward,23,Spain,https://www.transfermarkt.com/ruben-sobrino/profil/spieler/85383,3.0
+Fran Navarro,Centre-Forward,unknown,Spain,https://www.transfermarkt.com/fran-navarro/profil/spieler/284883,0.3
+Sergio Asenjo,Goalkeeper,1,Spain,https://www.transfermarkt.com/sergio-asenjo/profil/spieler/51710,12.0
+Andrés Fernández,Goalkeeper,13,Spain,https://www.transfermarkt.com/andres-fernandez/profil/spieler/57522,1.5
+Mariano Barbosa,Goalkeeper,25,"['Argentina', 'Italy']",https://www.transfermarkt.com/mariano-barbosa/profil/spieler/30749,0.4
+Álvaro González,Centre-Back,3,Spain,https://www.transfermarkt.com/alvaro-gonzalez/profil/spieler/183647,8.0
+Ramiro Funes Mori,Centre-Back,4,Argentina,https://www.transfermarkt.com/ramiro-funes-mori/profil/spieler/11111,8.0
+Víctor Ruiz,Centre-Back,6,Spain,https://www.transfermarkt.com/victor-ruiz/profil/spieler/62920,7.0
+Pau Torres,Centre-Back,unknown,Spain,https://www.transfermarkt.com/pau-torres/profil/spieler/399776,4.0
+Rúben Semedo,Centre-Back,unknown,"['Portugal', 'Cape Verde']",https://www.transfermarkt.com/ruben-semedo/profil/spieler/197602,2.0
+Juan Ibiza,Centre-Back,unknown,Spain,https://www.transfermarkt.com/juan-ibiza/profil/spieler/411294,0.6
+Daniele Bonera,Centre-Back,23,Italy,https://www.transfermarkt.com/daniele-bonera/profil/spieler/5856,0.2
+Pepe Castaño,Centre-Back,33,Spain,https://www.transfermarkt.com/pepe-castano/profil/spieler/354742,0.15
+Alfonso Pedraza,Left-Back,16,Spain,https://www.transfermarkt.com/alfonso-pedraza/profil/spieler/356197,22.0
+Jaume Costa,Left-Back,11,Spain,https://www.transfermarkt.com/jaume-costa/profil/spieler/65318,4.0
+Xavi Quintillà,Left-Back,39,Spain,https://www.transfermarkt.com/xavi-quintilla/profil/spieler/204102,1.0
+Mario Gaspar,Right-Back,2,Spain,https://www.transfermarkt.com/mario-gaspar/profil/spieler/73250,10.0
+Miguel Layún,Right-Back,24,"['Mexico', 'Spain']",https://www.transfermarkt.com/miguel-layun/profil/spieler/58576,3.0
+Miguelón,Right-Back,15,Spain,https://www.transfermarkt.com/miguelon/profil/spieler/399775,0.8
+Andrei Ratiu,Right-Back,42,Romania,https://www.transfermarkt.com/andrei-ratiu/profil/spieler/527966,0.3
+Santiago Cáseres,Defensive Midfield,5,Argentina,https://www.transfermarkt.com/santiago-caseres/profil/spieler/466298,10.0
+Javi Fuego,Defensive Midfield,18,Spain,https://www.transfermarkt.com/javi-fuego/profil/spieler/56134,0.8
+Bruno Soriano,Defensive Midfield,21,Spain,https://www.transfermarkt.com/bruno-soriano/profil/spieler/44412,0.8
+Manuel Iturra,Defensive Midfield,20,"['Chile', 'Italy']",https://www.transfermarkt.com/manuel-iturra/profil/spieler/40428,0.4
+Manu Trigueros,Central Midfield,14,Spain,https://www.transfermarkt.com/manu-trigueros/profil/spieler/188854,15.0
+Vicente Iborra,Central Midfield,10,Spain,https://www.transfermarkt.com/vicente-iborra/profil/spieler/65467,9.0
+Santi Cazorla,Central Midfield,19,Spain,https://www.transfermarkt.com/santi-cazorla/profil/spieler/15799,4.0
+Manu Morlanes,Central Midfield,28,Spain,https://www.transfermarkt.com/manu-morlanes/profil/spieler/335225,2.5
+Ramiro Guerra,Central Midfield,unknown,"['Uruguay', 'Spain']",https://www.transfermarkt.com/ramiro-guerra/profil/spieler/222571,0.2
+Pablo Fornals,Attacking Midfield,8,Spain,https://www.transfermarkt.com/pablo-fornals/profil/spieler/357885,25.0
+Roberto Soriano,Attacking Midfield,unknown,"['Italy', 'Germany']",https://www.transfermarkt.com/roberto-soriano/profil/spieler/63186,7.0
+Iván Martín,Attacking Midfield,37,Spain,https://www.transfermarkt.com/ivan-martin/profil/spieler/341278,0.3
+Karl Toko Ekambi,Left Winger,17,"['Cameroon', 'France']",https://www.transfermarkt.com/karl-toko-ekambi/profil/spieler/315110,17.5
+Nicola Sansone,Left Winger,10,"['Italy', 'Germany']",https://www.transfermarkt.com/nicola-sansone/profil/spieler/82048,7.5
+Akram Afif,Left Winger,unknown,"['Qatar', 'Tanzania']",https://www.transfermarkt.com/akram-afif/profil/spieler/336646,3.5
+Samuel Chukwueze,Right Winger,30,Nigeria,https://www.transfermarkt.com/samuel-chukwueze/profil/spieler/401922,30.0
+Dani Raba,Right Winger,22,Spain,https://www.transfermarkt.com/dani-raba/profil/spieler/413262,2.0
+Leo Suárez,Right Winger,unknown,"['Argentina', 'Spain']",https://www.transfermarkt.com/leo-suarez/profil/spieler/294894,1.0
+Gerard Moreno,Centre-Forward,7,Spain,https://www.transfermarkt.com/gerard-moreno/profil/spieler/177467,17.5
+Carlos Bacca,Centre-Forward,9,Colombia,https://www.transfermarkt.com/carlos-bacca/profil/spieler/119235,5.0
+Enes Ünal,Centre-Forward,15,Turkey,https://www.transfermarkt.com/enes-unal/profil/spieler/251106,5.0
