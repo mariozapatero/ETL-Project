@@ -14,7 +14,7 @@ Los datos son extraídos de 3 fuentes de datos:
 - [ESPN.](https://www.espn.com/soccer/standings/_/league/ESP.1/season/2018)
 - [Transfermarkt.](https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2018)
 
-Siguiendo tres métodos de extracción direferentes:
+Siguiendo 3 métodos de extracción direferentes:
 
 - Archivo CSV.
 - Web scrapping.
