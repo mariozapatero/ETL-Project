@@ -1,4 +1,8 @@
-# ETL-Project
+<img src= "images/Portada_ETL_2.png">
+
+
+
+# ETL Project
 
 El objetivo de este proyecto es completar un proceso ETL completo: extraer los datos, transformarlos y cargarlos en una base de datos.
 
