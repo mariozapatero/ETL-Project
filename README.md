@@ -18,7 +18,7 @@ Siguiendo 3 métodos de extracción direferentes:
 
 - Archivo CSV.
 - Web scrapping.
-- API.
+- Manejo de API.
 
 Partimos de un archivo csv que contiene estadísticas de partido de todos los jugadores de La Liga durante la temporada 2018/2019. 
 
