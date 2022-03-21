@@ -42,7 +42,7 @@ Para completar el proceso, cargaremos las matrices generadas en una base de dato
 -------
 
 
-#### Tech stack:
+### Tech stack.
 - [Numpy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
 
