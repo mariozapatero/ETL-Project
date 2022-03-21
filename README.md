@@ -18,11 +18,11 @@ Siguiendo 3 métodos de extracción direferentes:
 
 - Archivo CSV.
 - Web scrapping.
-- Manejo de API.
+- Manejo de APIs.
 
 Partimos de un archivo csv que contiene estadísticas de partido de todos los jugadores de La Liga durante la temporada 2018/2019. 
 
-A partir de ahí, se enriquecen los datos mediante de la extracción de información acerca de los equipos de La Liga durante esta misma temporada. Esto se extrae del contenido disponible en la página web de ESPN, un medio referente a nivel internacional. Los datos se extraerán mediante técnicas de web scrapping.
+A partir de ahí, se enriquecen los datos mediante de la extracción de información acerca de los equipos de La Liga durante esta misma temporada. Esto se obtiene del contenido disponible en la página web de ESPN, un medio referente a nivel internacional. Los datos se extraerán mediante técnicas de web scrapping.
 
 Para complementar lo anterior, extraeremos los datos referentes al valor de mercado de los jugadores de LaLiga durante el espacio temporal considerado anteriormente. Los datos serán extraídos mediante el manejo de APIs.
 
