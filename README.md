@@ -4,9 +4,9 @@
 
 # ETL Project
 
-El objetivo de este proyecto es completar un proceso ETL completo: extraer los datos, transformarlos y cargarlos en una base de datos.
+El **objetivo** de este proyecto es completar un proceso ETL completo: extraer los datos, transformarlos y cargarlos en una base de datos.
 
-## Etapa de Extracción:
+## Etapa de Extracción.
 
 Los datos son extraídos de 3 fuentes de datos:
     
