@@ -17,7 +17,7 @@ Los datos son extraídos de 3 fuentes de datos:
 Siguiendo 3 métodos de extracción direferentes:
 
 - Archivo CSV.
-- Web scrapping.
+- Web scraping.
 - Manejo de APIs.
 
 Partimos de un archivo csv que contiene estadísticas de partido de todos los jugadores de La Liga durante la temporada 2018/2019. 
